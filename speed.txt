@@ -1,0 +1,4 @@
+################### START SPEED TEST
+Download: 198.68 Mbit/s
+Upload: 491.90 Mbit/s
+################### END SPEED TEST

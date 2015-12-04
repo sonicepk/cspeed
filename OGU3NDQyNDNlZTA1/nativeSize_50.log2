@@ -1,0 +1,5074 @@
+########################### NEW LOG BEGINS #############################################
+DEST http://www.amazon.com/
+TIME_OF_TEST 1446820609
+DESTIP 54.239.26.128
+DESTIPHOT 54.239.26.128
+
+time_namelookup:  0.004
+time_total:  1.851
+size_download: 420967
+url_effective: http://www.amazon.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.102
+time_appconnect: 0.000
+time_pretransfer: 0.102
+time_starttransfer: 0.279
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.005
+time_total:  1.901
+size_download: 493566
+url_effective: http://www.amazon.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.101
+time_appconnect: 0.000
+time_pretransfer: 0.102
+time_starttransfer: 0.236
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 54.239.26.128 (54.239.26.128) 56(84) bytes of data.
+
+--- 54.239.26.128 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 5998ms
+
+############### END PING
+############### START TR
+traceroute to 54.239.26.128 (54.239.26.128), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.286 ms  0.183 ms  0.138 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.facebook.com/
+TIME_OF_TEST 1446820638
+DESTIP 31.13.90.36
+DESTIPHOT 31.13.90.36
+
+time_namelookup:  0.005
+time_total:  0.284
+size_download: 57980
+url_effective: https://www.facebook.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.029
+time_appconnect: 0.080
+time_pretransfer: 0.080
+time_starttransfer: 0.213
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.005
+time_total:  0.283
+size_download: 57847
+url_effective: https://www.facebook.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.029
+time_appconnect: 0.083
+time_pretransfer: 0.084
+time_starttransfer: 0.210
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 31.13.90.36 (31.13.90.36) 56(84) bytes of data.
+64 bytes from 31.13.90.36: icmp_seq=1 ttl=86 time=23.9 ms
+64 bytes from 31.13.90.36: icmp_seq=2 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=3 ttl=86 time=24.5 ms
+64 bytes from 31.13.90.36: icmp_seq=4 ttl=86 time=24.5 ms
+64 bytes from 31.13.90.36: icmp_seq=5 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=6 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=7 ttl=86 time=24.1 ms
+64 bytes from 31.13.90.36: icmp_seq=8 ttl=86 time=24.6 ms
+64 bytes from 31.13.90.36: icmp_seq=9 ttl=86 time=24.4 ms
+64 bytes from 31.13.90.36: icmp_seq=10 ttl=86 time=24.3 ms
+64 bytes from 31.13.90.36: icmp_seq=11 ttl=86 time=24.3 ms
+64 bytes from 31.13.90.36: icmp_seq=12 ttl=86 time=24.9 ms
+64 bytes from 31.13.90.36: icmp_seq=13 ttl=86 time=24.8 ms
+64 bytes from 31.13.90.36: icmp_seq=14 ttl=86 time=24.6 ms
+64 bytes from 31.13.90.36: icmp_seq=15 ttl=86 time=24.1 ms
+64 bytes from 31.13.90.36: icmp_seq=16 ttl=86 time=24.3 ms
+64 bytes from 31.13.90.36: icmp_seq=17 ttl=86 time=24.5 ms
+64 bytes from 31.13.90.36: icmp_seq=18 ttl=86 time=24.6 ms
+64 bytes from 31.13.90.36: icmp_seq=19 ttl=86 time=25.3 ms
+64 bytes from 31.13.90.36: icmp_seq=20 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=21 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=22 ttl=86 time=24.7 ms
+64 bytes from 31.13.90.36: icmp_seq=23 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=24 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=25 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=26 ttl=86 time=24.1 ms
+64 bytes from 31.13.90.36: icmp_seq=27 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=28 ttl=86 time=24.2 ms
+64 bytes from 31.13.90.36: icmp_seq=29 ttl=86 time=24.7 ms
+64 bytes from 31.13.90.36: icmp_seq=30 ttl=86 time=24.3 ms
+
+--- 31.13.90.36 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5832ms
+rtt min/avg/max/mdev = 23.911/24.428/25.359/0.332 ms
+############### END PING
+############### START TR
+traceroute to 31.13.90.36 (31.13.90.36), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.356 ms  0.260 ms  0.188 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.bbc.co.uk/
+TIME_OF_TEST 1446820658
+DESTIP 212.58.246.54
+DESTIPHOT 212.58.246.55
+
+time_namelookup:  0.013
+time_total:  0.121
+size_download: 141888
+url_effective: http://www.bbc.co.uk/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.027
+time_appconnect: 0.000
+time_pretransfer: 0.027
+time_starttransfer: 0.049
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.004
+time_total:  0.121
+size_download: 141888
+url_effective: http://www.bbc.co.uk/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.019
+time_appconnect: 0.000
+time_pretransfer: 0.019
+time_starttransfer: 0.035
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 212.58.246.54 (212.58.246.54) 56(84) bytes of data.
+64 bytes from 212.58.246.54: icmp_seq=1 ttl=56 time=14.3 ms
+64 bytes from 212.58.246.54: icmp_seq=2 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=3 ttl=56 time=14.8 ms
+64 bytes from 212.58.246.54: icmp_seq=4 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=5 ttl=56 time=14.9 ms
+64 bytes from 212.58.246.54: icmp_seq=6 ttl=56 time=14.4 ms
+64 bytes from 212.58.246.54: icmp_seq=7 ttl=56 time=14.3 ms
+64 bytes from 212.58.246.54: icmp_seq=8 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=9 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=10 ttl=56 time=14.7 ms
+64 bytes from 212.58.246.54: icmp_seq=11 ttl=56 time=14.7 ms
+64 bytes from 212.58.246.54: icmp_seq=12 ttl=56 time=14.4 ms
+64 bytes from 212.58.246.54: icmp_seq=13 ttl=56 time=15.2 ms
+64 bytes from 212.58.246.54: icmp_seq=14 ttl=56 time=14.4 ms
+64 bytes from 212.58.246.54: icmp_seq=15 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=16 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=17 ttl=56 time=14.7 ms
+64 bytes from 212.58.246.54: icmp_seq=18 ttl=56 time=14.9 ms
+64 bytes from 212.58.246.54: icmp_seq=19 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=20 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=21 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=22 ttl=56 time=14.4 ms
+64 bytes from 212.58.246.54: icmp_seq=23 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=24 ttl=56 time=14.5 ms
+64 bytes from 212.58.246.54: icmp_seq=25 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=26 ttl=56 time=14.7 ms
+64 bytes from 212.58.246.54: icmp_seq=27 ttl=56 time=14.8 ms
+64 bytes from 212.58.246.54: icmp_seq=28 ttl=56 time=14.6 ms
+64 bytes from 212.58.246.54: icmp_seq=29 ttl=56 time=14.4 ms
+64 bytes from 212.58.246.54: icmp_seq=30 ttl=56 time=14.4 ms
+
+--- 212.58.246.54 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5857ms
+rtt min/avg/max/mdev = 14.365/14.622/15.249/0.253 ms
+############### END PING
+############### START TR
+traceroute to 212.58.246.54 (212.58.246.54), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.126 ms  0.091 ms  0.481 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.sigmalive.com/
+TIME_OF_TEST 1446820678
+DESTIP 81.21.47.73
+DESTIPHOT 81.21.47.73
+
+time_namelookup:  0.257
+time_total:  0.917
+size_download: 230605
+url_effective: http://www.sigmalive.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.339
+time_appconnect: 0.000
+time_pretransfer: 0.339
+time_starttransfer: 0.421
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.004
+time_total:  0.732
+size_download: 230605
+url_effective: http://www.sigmalive.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.077
+time_appconnect: 0.000
+time_pretransfer: 0.078
+time_starttransfer: 0.151
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 81.21.47.73 (81.21.47.73) 56(84) bytes of data.
+
+--- 81.21.47.73 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 6022ms
+
+############### END PING
+############### START TR
+traceroute to 81.21.47.73 (81.21.47.73), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.696 ms  1.415 ms  1.231 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://twitter.com/
+TIME_OF_TEST 1446820713
+DESTIP 185.45.5.32
+DESTIPHOT 185.45.5.43
+
+time_namelookup:  0.004
+time_total:  0.450
+size_download: 71232
+url_effective: https://twitter.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.023
+time_appconnect: 0.077
+time_pretransfer: 0.077
+time_starttransfer: 0.217
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.005
+time_total:  0.473
+size_download: 71233
+url_effective: https://twitter.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.024
+time_appconnect: 0.067
+time_pretransfer: 0.067
+time_starttransfer: 0.302
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 185.45.5.32 (185.45.5.32) 56(84) bytes of data.
+64 bytes from 185.45.5.32: icmp_seq=1 ttl=55 time=19.4 ms
+64 bytes from 185.45.5.32: icmp_seq=2 ttl=55 time=19.8 ms
+64 bytes from 185.45.5.32: icmp_seq=3 ttl=55 time=20.0 ms
+64 bytes from 185.45.5.32: icmp_seq=4 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=5 ttl=55 time=19.7 ms
+64 bytes from 185.45.5.32: icmp_seq=6 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=7 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=8 ttl=55 time=19.9 ms
+64 bytes from 185.45.5.32: icmp_seq=9 ttl=55 time=19.8 ms
+64 bytes from 185.45.5.32: icmp_seq=10 ttl=55 time=19.8 ms
+64 bytes from 185.45.5.32: icmp_seq=11 ttl=55 time=19.8 ms
+64 bytes from 185.45.5.32: icmp_seq=12 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=13 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=14 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=15 ttl=55 time=19.7 ms
+64 bytes from 185.45.5.32: icmp_seq=16 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=17 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=18 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=19 ttl=55 time=19.9 ms
+64 bytes from 185.45.5.32: icmp_seq=20 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=21 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=22 ttl=55 time=19.9 ms
+64 bytes from 185.45.5.32: icmp_seq=23 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=24 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=25 ttl=55 time=19.9 ms
+64 bytes from 185.45.5.32: icmp_seq=26 ttl=55 time=19.4 ms
+64 bytes from 185.45.5.32: icmp_seq=27 ttl=55 time=19.6 ms
+64 bytes from 185.45.5.32: icmp_seq=28 ttl=55 time=19.5 ms
+64 bytes from 185.45.5.32: icmp_seq=29 ttl=55 time=19.8 ms
+64 bytes from 185.45.5.32: icmp_seq=30 ttl=55 time=19.4 ms
+
+--- 185.45.5.32 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5847ms
+rtt min/avg/max/mdev = 19.428/19.696/20.025/0.213 ms
+############### END PING
+############### START TR
+traceroute to 185.45.5.32 (185.45.5.32), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.311 ms  0.220 ms  0.170 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.google.com.cu/
+TIME_OF_TEST 1446820728
+DESTIP 216.58.210.3
+DESTIPHOT 216.58.210.3
+
+time_namelookup:  0.515
+time_total:  0.663
+size_download: 62830
+url_effective: https://www.google.com.cu/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.527
+time_appconnect: 0.558
+time_pretransfer: 0.558
+time_starttransfer: 0.636
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.004
+time_total:  0.148
+size_download: 63305
+url_effective: https://www.google.com.cu/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.049
+time_pretransfer: 0.049
+time_starttransfer: 0.122
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 216.58.210.3 (216.58.210.3) 56(84) bytes of data.
+64 bytes from 216.58.210.3: icmp_seq=1 ttl=56 time=12.1 ms
+64 bytes from 216.58.210.3: icmp_seq=2 ttl=56 time=12.8 ms
+64 bytes from 216.58.210.3: icmp_seq=3 ttl=56 time=12.9 ms
+64 bytes from 216.58.210.3: icmp_seq=4 ttl=56 time=12.6 ms
+64 bytes from 216.58.210.3: icmp_seq=5 ttl=56 time=12.7 ms
+64 bytes from 216.58.210.3: icmp_seq=6 ttl=56 time=12.6 ms
+64 bytes from 216.58.210.3: icmp_seq=7 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=8 ttl=56 time=12.5 ms
+64 bytes from 216.58.210.3: icmp_seq=9 ttl=56 time=12.8 ms
+64 bytes from 216.58.210.3: icmp_seq=10 ttl=56 time=12.2 ms
+64 bytes from 216.58.210.3: icmp_seq=11 ttl=56 time=12.5 ms
+64 bytes from 216.58.210.3: icmp_seq=12 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=13 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=14 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=15 ttl=56 time=12.1 ms
+64 bytes from 216.58.210.3: icmp_seq=16 ttl=56 time=12.3 ms
+64 bytes from 216.58.210.3: icmp_seq=17 ttl=56 time=12.5 ms
+64 bytes from 216.58.210.3: icmp_seq=18 ttl=56 time=12.6 ms
+64 bytes from 216.58.210.3: icmp_seq=19 ttl=56 time=12.3 ms
+64 bytes from 216.58.210.3: icmp_seq=20 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=21 ttl=56 time=12.8 ms
+64 bytes from 216.58.210.3: icmp_seq=22 ttl=56 time=12.3 ms
+64 bytes from 216.58.210.3: icmp_seq=23 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=24 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=25 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=26 ttl=56 time=12.5 ms
+64 bytes from 216.58.210.3: icmp_seq=27 ttl=56 time=12.4 ms
+64 bytes from 216.58.210.3: icmp_seq=28 ttl=56 time=12.3 ms
+64 bytes from 216.58.210.3: icmp_seq=29 ttl=56 time=12.1 ms
+64 bytes from 216.58.210.3: icmp_seq=30 ttl=56 time=12.4 ms
+
+--- 216.58.210.3 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5833ms
+rtt min/avg/max/mdev = 12.149/12.569/13.617/0.330 ms
+############### END PING
+############### START TR
+traceroute to 216.58.210.3 (216.58.210.3), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.618 ms  0.565 ms  0.521 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.olx.com.br/
+TIME_OF_TEST 1446820748
+DESTIP 193.1.253.139
+DESTIPHOT 193.1.253.139
+
+time_namelookup:  0.061
+time_total:  0.745
+size_download: 76895
+url_effective: http://www.olx.com.br/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.063
+time_appconnect: 0.000
+time_pretransfer: 0.063
+time_starttransfer: 0.734
+
+CURLHOT FOLLOWS
+
+time_namelookup:  5.524
+time_total:  6.166
+size_download: 76895
+url_effective: http://www.olx.com.br/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.530
+time_appconnect: 0.000
+time_pretransfer: 5.530
+time_starttransfer: 6.156
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.139 (193.1.253.139) 56(84) bytes of data.
+64 bytes from 193.1.253.139: icmp_seq=1 ttl=58 time=2.12 ms
+64 bytes from 193.1.253.139: icmp_seq=2 ttl=58 time=2.55 ms
+64 bytes from 193.1.253.139: icmp_seq=3 ttl=58 time=2.41 ms
+64 bytes from 193.1.253.139: icmp_seq=4 ttl=58 time=2.60 ms
+64 bytes from 193.1.253.139: icmp_seq=5 ttl=58 time=2.39 ms
+64 bytes from 193.1.253.139: icmp_seq=6 ttl=58 time=2.74 ms
+64 bytes from 193.1.253.139: icmp_seq=7 ttl=58 time=2.57 ms
+64 bytes from 193.1.253.139: icmp_seq=8 ttl=58 time=2.62 ms
+64 bytes from 193.1.253.139: icmp_seq=9 ttl=58 time=2.74 ms
+64 bytes from 193.1.253.139: icmp_seq=10 ttl=58 time=2.50 ms
+64 bytes from 193.1.253.139: icmp_seq=11 ttl=58 time=3.59 ms
+64 bytes from 193.1.253.139: icmp_seq=12 ttl=58 time=2.53 ms
+64 bytes from 193.1.253.139: icmp_seq=13 ttl=58 time=2.66 ms
+64 bytes from 193.1.253.139: icmp_seq=14 ttl=58 time=2.41 ms
+64 bytes from 193.1.253.139: icmp_seq=15 ttl=58 time=2.40 ms
+64 bytes from 193.1.253.139: icmp_seq=16 ttl=58 time=2.42 ms
+64 bytes from 193.1.253.139: icmp_seq=17 ttl=58 time=5.55 ms
+64 bytes from 193.1.253.139: icmp_seq=18 ttl=58 time=2.49 ms
+64 bytes from 193.1.253.139: icmp_seq=19 ttl=58 time=2.64 ms
+64 bytes from 193.1.253.139: icmp_seq=20 ttl=58 time=2.40 ms
+64 bytes from 193.1.253.139: icmp_seq=21 ttl=58 time=2.47 ms
+64 bytes from 193.1.253.139: icmp_seq=22 ttl=58 time=3.18 ms
+64 bytes from 193.1.253.139: icmp_seq=23 ttl=58 time=2.27 ms
+64 bytes from 193.1.253.139: icmp_seq=24 ttl=58 time=2.70 ms
+64 bytes from 193.1.253.139: icmp_seq=25 ttl=58 time=2.32 ms
+64 bytes from 193.1.253.139: icmp_seq=26 ttl=58 time=2.92 ms
+64 bytes from 193.1.253.139: icmp_seq=27 ttl=58 time=2.73 ms
+64 bytes from 193.1.253.139: icmp_seq=28 ttl=58 time=2.55 ms
+64 bytes from 193.1.253.139: icmp_seq=29 ttl=58 time=2.62 ms
+64 bytes from 193.1.253.139: icmp_seq=30 ttl=58 time=2.38 ms
+
+--- 193.1.253.139 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5834ms
+rtt min/avg/max/mdev = 2.128/2.686/5.558/0.602 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.139 (193.1.253.139), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.572 ms  0.543 ms  0.516 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.bild.de/
+TIME_OF_TEST 1446820768
+DESTIP 193.1.253.139
+DESTIPHOT 193.1.253.145
+
+time_namelookup:  0.065
+time_total:  0.107
+size_download: 361580
+url_effective: http://www.bild.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.067
+time_appconnect: 0.000
+time_pretransfer: 0.067
+time_starttransfer: 0.078
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.006
+time_total:  0.046
+size_download: 361580
+url_effective: http://www.bild.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.007
+time_appconnect: 0.000
+time_pretransfer: 0.008
+time_starttransfer: 0.018
+
+############### START TCP-DATA
+31424001 0 1.7
+1 2841 13.1
+2841 7101 13.6
+7101 12781 14.8
+12781 19881 16.0
+19881 28401 17.4
+28401 38341 18.6
+38341 49701 19.8
+49701 62481 21.0
+62481 76681 22.2
+76681 92301 23.4
+92301 109341 24.6
+109341 127801 25.8
+127801 147681 27.1
+147681 168981 28.4
+168981 191701 29.6
+191701 210161 30.9
+210161 215841 31.4
+215841 242821 32.4
+242821 271221 33.9
+271221 294138 34.9
+294138 299818 35.9
+299818 303539 36.3
+303539 312299 36.9
+312299 321395 38.0
+321395 339803 39.2
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.139 (193.1.253.139) 56(84) bytes of data.
+64 bytes from 193.1.253.139: icmp_seq=1 ttl=58 time=2.14 ms
+64 bytes from 193.1.253.139: icmp_seq=2 ttl=58 time=3.35 ms
+64 bytes from 193.1.253.139: icmp_seq=3 ttl=58 time=2.18 ms
+64 bytes from 193.1.253.139: icmp_seq=4 ttl=58 time=2.44 ms
+64 bytes from 193.1.253.139: icmp_seq=5 ttl=58 time=2.28 ms
+64 bytes from 193.1.253.139: icmp_seq=6 ttl=58 time=2.32 ms
+64 bytes from 193.1.253.139: icmp_seq=7 ttl=58 time=2.29 ms
+64 bytes from 193.1.253.139: icmp_seq=8 ttl=58 time=2.21 ms
+64 bytes from 193.1.253.139: icmp_seq=9 ttl=58 time=2.40 ms
+64 bytes from 193.1.253.139: icmp_seq=10 ttl=58 time=2.15 ms
+64 bytes from 193.1.253.139: icmp_seq=11 ttl=58 time=2.45 ms
+64 bytes from 193.1.253.139: icmp_seq=12 ttl=58 time=2.55 ms
+64 bytes from 193.1.253.139: icmp_seq=13 ttl=58 time=2.79 ms
+64 bytes from 193.1.253.139: icmp_seq=14 ttl=58 time=2.53 ms
+64 bytes from 193.1.253.139: icmp_seq=15 ttl=58 time=2.24 ms
+64 bytes from 193.1.253.139: icmp_seq=16 ttl=58 time=2.29 ms
+64 bytes from 193.1.253.139: icmp_seq=17 ttl=58 time=1.87 ms
+64 bytes from 193.1.253.139: icmp_seq=18 ttl=58 time=2.03 ms
+64 bytes from 193.1.253.139: icmp_seq=19 ttl=58 time=2.25 ms
+64 bytes from 193.1.253.139: icmp_seq=20 ttl=58 time=2.43 ms
+64 bytes from 193.1.253.139: icmp_seq=21 ttl=58 time=2.46 ms
+64 bytes from 193.1.253.139: icmp_seq=22 ttl=58 time=2.22 ms
+64 bytes from 193.1.253.139: icmp_seq=23 ttl=58 time=2.20 ms
+64 bytes from 193.1.253.139: icmp_seq=24 ttl=58 time=2.54 ms
+64 bytes from 193.1.253.139: icmp_seq=25 ttl=58 time=2.41 ms
+64 bytes from 193.1.253.139: icmp_seq=26 ttl=58 time=2.42 ms
+64 bytes from 193.1.253.139: icmp_seq=27 ttl=58 time=3.10 ms
+64 bytes from 193.1.253.139: icmp_seq=28 ttl=58 time=2.83 ms
+64 bytes from 193.1.253.139: icmp_seq=29 ttl=58 time=2.52 ms
+64 bytes from 193.1.253.139: icmp_seq=30 ttl=58 time=3.12 ms
+
+--- 193.1.253.139 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5835ms
+rtt min/avg/max/mdev = 1.874/2.437/3.356/0.326 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.139 (193.1.253.139), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.296 ms  1.193 ms  1.068 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.baidu.com/
+TIME_OF_TEST 1446820807
+DESTIP 103.235.46.39
+DESTIPHOT 103.235.46.39
+
+time_namelookup:  1.512
+time_total:  3.297
+size_download: 100153
+url_effective: https://www.baidu.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 1.785
+time_appconnect: 2.401
+time_pretransfer: 2.401
+time_starttransfer: 2.755
+
+CURLHOT FOLLOWS
+
+time_namelookup:  5.519
+time_total:  7.505
+size_download: 100484
+url_effective: https://www.baidu.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.789
+time_appconnect: 6.342
+time_pretransfer: 6.342
+time_starttransfer: 6.693
+
+############### START TCP-DATA
+44352001 0 272.8
+1 2841 545.1
+2841 2921 546.2
+2921 4595 547.4
+4595 4646 887.7
+4646 12869 1242.3
+12869 22809 1244.3
+22809 25392 1244.8
+25392 32912 1282.8
+32912 34372 1284.5
+34372 35832 1351.6
+35832 44592 1511.8
+############### END TCP-DATA
+############### START PING
+PING 103.235.46.39 (103.235.46.39) 56(84) bytes of data.
+64 bytes from 103.235.46.39: icmp_seq=1 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=2 ttl=50 time=263 ms
+64 bytes from 103.235.46.39: icmp_seq=3 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=4 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=5 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=6 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=7 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=8 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=9 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=10 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=11 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=12 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=13 ttl=50 time=263 ms
+64 bytes from 103.235.46.39: icmp_seq=14 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=15 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=16 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=17 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=18 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=19 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=20 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=21 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=22 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=23 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=24 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=25 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=26 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=27 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=28 ttl=50 time=262 ms
+64 bytes from 103.235.46.39: icmp_seq=29 ttl=50 time=263 ms
+64 bytes from 103.235.46.39: icmp_seq=30 ttl=50 time=262 ms
+
+--- 103.235.46.39 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5831ms
+rtt min/avg/max/mdev = 262.511/262.732/263.274/0.687 ms, pipe 2
+############### END PING
+############### START TR
+traceroute to 103.235.46.39 (103.235.46.39), 30 hops max, 60 byte packets
+ 1  10.0.2.2  3.492 ms  3.453 ms  3.429 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.wikipedia.org/
+TIME_OF_TEST 1446820834
+DESTIP 91.198.174.192
+DESTIPHOT 91.198.174.192
+
+time_namelookup:  0.007
+time_total:  0.207
+size_download: 42852
+url_effective: https://www.wikipedia.org/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.040
+time_appconnect: 0.110
+time_pretransfer: 0.110
+time_starttransfer: 0.143
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.210
+size_download: 42852
+url_effective: https://www.wikipedia.org/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.046
+time_appconnect: 0.113
+time_pretransfer: 0.114
+time_starttransfer: 0.146
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 91.198.174.192 (91.198.174.192) 56(84) bytes of data.
+64 bytes from 91.198.174.192: icmp_seq=1 ttl=55 time=32.9 ms
+64 bytes from 91.198.174.192: icmp_seq=2 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=3 ttl=55 time=33.5 ms
+64 bytes from 91.198.174.192: icmp_seq=4 ttl=55 time=32.8 ms
+64 bytes from 91.198.174.192: icmp_seq=5 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=6 ttl=55 time=32.9 ms
+64 bytes from 91.198.174.192: icmp_seq=7 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=8 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=9 ttl=55 time=33.5 ms
+64 bytes from 91.198.174.192: icmp_seq=10 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=11 ttl=55 time=33.0 ms
+64 bytes from 91.198.174.192: icmp_seq=12 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=13 ttl=55 time=33.4 ms
+64 bytes from 91.198.174.192: icmp_seq=14 ttl=55 time=33.7 ms
+64 bytes from 91.198.174.192: icmp_seq=15 ttl=55 time=33.0 ms
+64 bytes from 91.198.174.192: icmp_seq=16 ttl=55 time=33.2 ms
+64 bytes from 91.198.174.192: icmp_seq=17 ttl=55 time=33.1 ms
+64 bytes from 91.198.174.192: icmp_seq=18 ttl=55 time=34.1 ms
+64 bytes from 91.198.174.192: icmp_seq=19 ttl=55 time=33.5 ms
+64 bytes from 91.198.174.192: icmp_seq=20 ttl=55 time=33.1 ms
+64 bytes from 91.198.174.192: icmp_seq=21 ttl=55 time=33.3 ms
+64 bytes from 91.198.174.192: icmp_seq=22 ttl=55 time=33.1 ms
+64 bytes from 91.198.174.192: icmp_seq=23 ttl=55 time=33.4 ms
+64 bytes from 91.198.174.192: icmp_seq=24 ttl=55 time=33.3 ms
+64 bytes from 91.198.174.192: icmp_seq=25 ttl=55 time=33.3 ms
+64 bytes from 91.198.174.192: icmp_seq=26 ttl=55 time=33.0 ms
+64 bytes from 91.198.174.192: icmp_seq=27 ttl=55 time=33.0 ms
+64 bytes from 91.198.174.192: icmp_seq=28 ttl=55 time=33.5 ms
+64 bytes from 91.198.174.192: icmp_seq=29 ttl=55 time=33.4 ms
+64 bytes from 91.198.174.192: icmp_seq=30 ttl=55 time=33.1 ms
+
+--- 91.198.174.192 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5856ms
+rtt min/avg/max/mdev = 32.863/33.296/34.159/0.303 ms
+############### END PING
+############### START TR
+traceroute to 91.198.174.192 (91.198.174.192), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.838 ms  1.762 ms  1.703 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.youtube.com/
+TIME_OF_TEST 1446820855
+DESTIP 74.125.24.93
+DESTIPHOT 74.125.24.91
+
+time_namelookup:  0.013
+time_total:  0.807
+size_download: 375585
+url_effective: https://www.youtube.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.025
+time_pretransfer: 0.025
+time_starttransfer: 0.065
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.016
+time_total:  0.649
+size_download: 365206
+url_effective: https://www.youtube.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.018
+time_appconnect: 0.028
+time_pretransfer: 0.028
+time_starttransfer: 0.077
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 74.125.24.93 (74.125.24.93) 56(84) bytes of data.
+64 bytes from 74.125.24.93: icmp_seq=1 ttl=52 time=2.48 ms
+64 bytes from 74.125.24.93: icmp_seq=2 ttl=52 time=3.18 ms
+64 bytes from 74.125.24.93: icmp_seq=3 ttl=52 time=2.71 ms
+64 bytes from 74.125.24.93: icmp_seq=4 ttl=52 time=3.18 ms
+64 bytes from 74.125.24.93: icmp_seq=5 ttl=52 time=2.86 ms
+64 bytes from 74.125.24.93: icmp_seq=6 ttl=52 time=3.70 ms
+64 bytes from 74.125.24.93: icmp_seq=7 ttl=52 time=3.78 ms
+64 bytes from 74.125.24.93: icmp_seq=8 ttl=52 time=3.56 ms
+64 bytes from 74.125.24.93: icmp_seq=9 ttl=52 time=3.45 ms
+64 bytes from 74.125.24.93: icmp_seq=10 ttl=52 time=2.87 ms
+64 bytes from 74.125.24.93: icmp_seq=11 ttl=52 time=3.83 ms
+64 bytes from 74.125.24.93: icmp_seq=12 ttl=52 time=5.48 ms
+64 bytes from 74.125.24.93: icmp_seq=13 ttl=52 time=3.79 ms
+64 bytes from 74.125.24.93: icmp_seq=14 ttl=52 time=3.60 ms
+64 bytes from 74.125.24.93: icmp_seq=15 ttl=52 time=2.86 ms
+64 bytes from 74.125.24.93: icmp_seq=16 ttl=52 time=3.73 ms
+64 bytes from 74.125.24.93: icmp_seq=17 ttl=52 time=3.71 ms
+64 bytes from 74.125.24.93: icmp_seq=18 ttl=52 time=3.57 ms
+64 bytes from 74.125.24.93: icmp_seq=19 ttl=52 time=3.53 ms
+64 bytes from 74.125.24.93: icmp_seq=20 ttl=52 time=2.85 ms
+64 bytes from 74.125.24.93: icmp_seq=21 ttl=52 time=3.79 ms
+64 bytes from 74.125.24.93: icmp_seq=22 ttl=52 time=2.99 ms
+64 bytes from 74.125.24.93: icmp_seq=23 ttl=52 time=2.66 ms
+64 bytes from 74.125.24.93: icmp_seq=24 ttl=52 time=3.20 ms
+64 bytes from 74.125.24.93: icmp_seq=25 ttl=52 time=3.22 ms
+64 bytes from 74.125.24.93: icmp_seq=26 ttl=52 time=3.23 ms
+64 bytes from 74.125.24.93: icmp_seq=27 ttl=52 time=3.99 ms
+64 bytes from 74.125.24.93: icmp_seq=28 ttl=52 time=3.78 ms
+64 bytes from 74.125.24.93: icmp_seq=29 ttl=52 time=3.59 ms
+64 bytes from 74.125.24.93: icmp_seq=30 ttl=52 time=2.83 ms
+
+--- 74.125.24.93 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5858ms
+rtt min/avg/max/mdev = 2.486/3.404/5.489/0.571 ms
+############### END PING
+############### START TR
+traceroute to 74.125.24.93 (74.125.24.93), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.527 ms  1.460 ms  1.407 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.clarin.com/
+TIME_OF_TEST 1446820878
+DESTIP 200.42.136.212
+DESTIPHOT 200.42.136.212
+
+time_namelookup:  0.257
+time_total:  2.198
+size_download: 141313
+url_effective: http://www.clarin.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.501
+time_appconnect: 0.000
+time_pretransfer: 0.501
+time_starttransfer: 0.749
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  1.904
+size_download: 139512
+url_effective: http://www.clarin.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.283
+time_appconnect: 0.000
+time_pretransfer: 0.283
+time_starttransfer: 0.559
+
+############### START TCP-DATA
+50048001 0 243.5
+1 2841 492.1
+2841 7101 493.7
+7101 12781 496.5
+12781 13801 498.9
+13801 19321 732.8
+19321 26221 735.2
+26221 30361 973.3
+30361 38641 976.3
+38641 42781 978.6
+42781 48301 1213.9
+48301 56581 1218.2
+56581 63481 1220.0
+63481 67621 1454.5
+67621 75901 1457.2
+75901 86941 1459.1
+86941 95221 1695.2
+95221 103501 1699.5
+103501 122821 1702.2
+############### END TCP-DATA
+############### START PING
+PING 200.42.136.212 (200.42.136.212) 56(84) bytes of data.
+
+--- 200.42.136.212 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 5899ms
+
+############### END PING
+############### START TR
+traceroute to 200.42.136.212 (200.42.136.212), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.570 ms  1.479 ms  1.416 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.fnb.co.za/
+TIME_OF_TEST 1446820922
+DESTIP 196.11.125.148
+DESTIPHOT 196.11.125.188
+
+time_namelookup:  0.254
+time_total:  2.808
+size_download: 465149
+url_effective: https://www.fnb.co.za/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.432
+time_appconnect: 0.798
+time_pretransfer: 0.798
+time_starttransfer: 1.050
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  2.381
+size_download: 466338
+url_effective: https://www.fnb.co.za/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.190
+time_appconnect: 0.553
+time_pretransfer: 0.553
+time_starttransfer: 0.793
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 196.11.125.148 (196.11.125.148) 56(84) bytes of data.
+
+--- 196.11.125.148 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 5963ms
+
+############### END PING
+############### START TR
+traceroute to 196.11.125.148 (196.11.125.148), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.101 ms  1.983 ms  1.898 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.sapo.pt/
+TIME_OF_TEST 1446820956
+DESTIP 213.13.146.138
+DESTIPHOT 213.13.146.138
+
+time_namelookup:  0.128
+time_total:  0.547
+size_download: 152557
+url_effective: http://www.sapo.pt/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.182
+time_appconnect: 0.000
+time_pretransfer: 0.182
+time_starttransfer: 0.235
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.645
+size_download: 152568
+url_effective: http://www.sapo.pt/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.066
+time_appconnect: 0.000
+time_pretransfer: 0.066
+time_starttransfer: 0.120
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 213.13.146.138 (213.13.146.138) 56(84) bytes of data.
+64 bytes from 213.13.146.138: icmp_seq=1 ttl=115 time=52.6 ms
+64 bytes from 213.13.146.138: icmp_seq=2 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=3 ttl=115 time=57.4 ms
+64 bytes from 213.13.146.138: icmp_seq=4 ttl=115 time=53.9 ms
+64 bytes from 213.13.146.138: icmp_seq=5 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=6 ttl=115 time=52.7 ms
+64 bytes from 213.13.146.138: icmp_seq=7 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=8 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=9 ttl=115 time=53.0 ms
+64 bytes from 213.13.146.138: icmp_seq=10 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=11 ttl=115 time=53.0 ms
+64 bytes from 213.13.146.138: icmp_seq=12 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=13 ttl=115 time=53.5 ms
+64 bytes from 213.13.146.138: icmp_seq=14 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=15 ttl=115 time=52.9 ms
+64 bytes from 213.13.146.138: icmp_seq=16 ttl=115 time=53.2 ms
+64 bytes from 213.13.146.138: icmp_seq=17 ttl=115 time=52.7 ms
+64 bytes from 213.13.146.138: icmp_seq=18 ttl=115 time=54.0 ms
+64 bytes from 213.13.146.138: icmp_seq=19 ttl=115 time=53.1 ms
+64 bytes from 213.13.146.138: icmp_seq=20 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=21 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=22 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=23 ttl=115 time=52.7 ms
+64 bytes from 213.13.146.138: icmp_seq=24 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=25 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=26 ttl=115 time=52.8 ms
+64 bytes from 213.13.146.138: icmp_seq=27 ttl=115 time=60.1 ms
+64 bytes from 213.13.146.138: icmp_seq=28 ttl=115 time=53.1 ms
+64 bytes from 213.13.146.138: icmp_seq=29 ttl=115 time=53.0 ms
+64 bytes from 213.13.146.138: icmp_seq=30 ttl=115 time=53.0 ms
+
+--- 213.13.146.138 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5837ms
+rtt min/avg/max/mdev = 52.619/53.412/60.136/1.521 ms
+############### END PING
+############### START TR
+traceroute to 213.13.146.138 (213.13.146.138), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.179 ms  2.107 ms  2.050 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.indiatimes.com/
+TIME_OF_TEST 1446820977
+DESTIP 193.1.253.137
+DESTIPHOT 193.1.253.139
+
+time_namelookup:  0.013
+time_total:  0.450
+size_download: 186832
+url_effective: http://www.indiatimes.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.000
+time_pretransfer: 0.016
+time_starttransfer: 0.317
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.042
+size_download: 186832
+url_effective: http://www.indiatimes.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.015
+time_appconnect: 0.000
+time_pretransfer: 0.015
+time_starttransfer: 0.021
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.137 (193.1.253.137) 56(84) bytes of data.
+64 bytes from 193.1.253.137: icmp_seq=1 ttl=58 time=2.66 ms
+64 bytes from 193.1.253.137: icmp_seq=2 ttl=58 time=3.17 ms
+64 bytes from 193.1.253.137: icmp_seq=3 ttl=58 time=2.70 ms
+64 bytes from 193.1.253.137: icmp_seq=4 ttl=58 time=3.57 ms
+64 bytes from 193.1.253.137: icmp_seq=5 ttl=58 time=3.01 ms
+64 bytes from 193.1.253.137: icmp_seq=6 ttl=58 time=2.72 ms
+64 bytes from 193.1.253.137: icmp_seq=7 ttl=58 time=2.83 ms
+64 bytes from 193.1.253.137: icmp_seq=8 ttl=58 time=3.58 ms
+64 bytes from 193.1.253.137: icmp_seq=9 ttl=58 time=3.66 ms
+64 bytes from 193.1.253.137: icmp_seq=10 ttl=58 time=3.89 ms
+64 bytes from 193.1.253.137: icmp_seq=11 ttl=58 time=2.97 ms
+64 bytes from 193.1.253.137: icmp_seq=12 ttl=58 time=3.77 ms
+64 bytes from 193.1.253.137: icmp_seq=13 ttl=58 time=5.69 ms
+64 bytes from 193.1.253.137: icmp_seq=14 ttl=58 time=4.15 ms
+64 bytes from 193.1.253.137: icmp_seq=15 ttl=58 time=3.87 ms
+64 bytes from 193.1.253.137: icmp_seq=16 ttl=58 time=2.68 ms
+64 bytes from 193.1.253.137: icmp_seq=17 ttl=58 time=3.77 ms
+64 bytes from 193.1.253.137: icmp_seq=18 ttl=58 time=5.64 ms
+64 bytes from 193.1.253.137: icmp_seq=19 ttl=58 time=3.48 ms
+64 bytes from 193.1.253.137: icmp_seq=20 ttl=58 time=3.41 ms
+64 bytes from 193.1.253.137: icmp_seq=21 ttl=58 time=2.91 ms
+64 bytes from 193.1.253.137: icmp_seq=22 ttl=58 time=3.16 ms
+64 bytes from 193.1.253.137: icmp_seq=23 ttl=58 time=4.93 ms
+64 bytes from 193.1.253.137: icmp_seq=24 ttl=58 time=3.35 ms
+64 bytes from 193.1.253.137: icmp_seq=25 ttl=58 time=5.03 ms
+64 bytes from 193.1.253.137: icmp_seq=26 ttl=58 time=2.87 ms
+64 bytes from 193.1.253.137: icmp_seq=27 ttl=58 time=3.71 ms
+64 bytes from 193.1.253.137: icmp_seq=28 ttl=58 time=3.34 ms
+64 bytes from 193.1.253.137: icmp_seq=29 ttl=58 time=3.02 ms
+64 bytes from 193.1.253.137: icmp_seq=30 ttl=58 time=3.75 ms
+
+--- 193.1.253.137 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5832ms
+rtt min/avg/max/mdev = 2.663/3.580/5.690/0.807 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.137 (193.1.253.137), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.727 ms  1.563 ms  1.477 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.sina.com.cn/
+TIME_OF_TEST 1446820996
+DESTIP 91.202.201.69
+DESTIPHOT 91.202.201.71
+
+time_namelookup:  0.029
+time_total:  0.075
+size_download: 518405
+url_effective: http://www.sina.com.cn/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.032
+time_appconnect: 0.000
+time_pretransfer: 0.032
+time_starttransfer: 0.035
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.065
+size_download: 518405
+url_effective: http://www.sina.com.cn/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.015
+time_appconnect: 0.000
+time_pretransfer: 0.015
+time_starttransfer: 0.020
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 91.202.201.69 (91.202.201.69) 56(84) bytes of data.
+64 bytes from 91.202.201.69: icmp_seq=1 ttl=57 time=2.61 ms
+64 bytes from 91.202.201.69: icmp_seq=2 ttl=57 time=2.81 ms
+64 bytes from 91.202.201.69: icmp_seq=3 ttl=57 time=3.75 ms
+64 bytes from 91.202.201.69: icmp_seq=4 ttl=57 time=3.61 ms
+64 bytes from 91.202.201.69: icmp_seq=5 ttl=57 time=2.78 ms
+64 bytes from 91.202.201.69: icmp_seq=6 ttl=57 time=3.67 ms
+64 bytes from 91.202.201.69: icmp_seq=7 ttl=57 time=3.15 ms
+64 bytes from 91.202.201.69: icmp_seq=8 ttl=57 time=2.73 ms
+64 bytes from 91.202.201.69: icmp_seq=9 ttl=57 time=3.57 ms
+64 bytes from 91.202.201.69: icmp_seq=10 ttl=57 time=2.71 ms
+64 bytes from 91.202.201.69: icmp_seq=11 ttl=57 time=3.64 ms
+64 bytes from 91.202.201.69: icmp_seq=12 ttl=57 time=3.48 ms
+64 bytes from 91.202.201.69: icmp_seq=13 ttl=57 time=3.49 ms
+64 bytes from 91.202.201.69: icmp_seq=14 ttl=57 time=3.55 ms
+64 bytes from 91.202.201.69: icmp_seq=15 ttl=57 time=2.69 ms
+64 bytes from 91.202.201.69: icmp_seq=16 ttl=57 time=3.85 ms
+64 bytes from 91.202.201.69: icmp_seq=17 ttl=57 time=3.44 ms
+64 bytes from 91.202.201.69: icmp_seq=18 ttl=57 time=3.76 ms
+64 bytes from 91.202.201.69: icmp_seq=19 ttl=57 time=3.67 ms
+64 bytes from 91.202.201.69: icmp_seq=20 ttl=57 time=2.72 ms
+64 bytes from 91.202.201.69: icmp_seq=21 ttl=57 time=3.68 ms
+64 bytes from 91.202.201.69: icmp_seq=22 ttl=57 time=3.84 ms
+64 bytes from 91.202.201.69: icmp_seq=23 ttl=57 time=3.49 ms
+64 bytes from 91.202.201.69: icmp_seq=24 ttl=57 time=3.20 ms
+64 bytes from 91.202.201.69: icmp_seq=25 ttl=57 time=2.67 ms
+64 bytes from 91.202.201.69: icmp_seq=26 ttl=57 time=3.92 ms
+64 bytes from 91.202.201.69: icmp_seq=27 ttl=57 time=2.73 ms
+64 bytes from 91.202.201.69: icmp_seq=28 ttl=57 time=3.60 ms
+64 bytes from 91.202.201.69: icmp_seq=29 ttl=57 time=3.03 ms
+64 bytes from 91.202.201.69: icmp_seq=30 ttl=57 time=2.59 ms
+
+--- 91.202.201.69 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5836ms
+rtt min/avg/max/mdev = 2.596/3.285/3.920/0.449 ms
+############### END PING
+############### START TR
+traceroute to 91.202.201.69 (91.202.201.69), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.235 ms  1.200 ms  1.176 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.mercadolibre.com.ar/
+TIME_OF_TEST 1446821026
+DESTIP 216.33.197.78
+DESTIPHOT 216.33.196.78
+
+time_namelookup:  0.129
+time_total:  0.868
+size_download: 91585
+url_effective: http://www.mercadolibre.com.ar/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.216
+time_appconnect: 0.000
+time_pretransfer: 0.216
+time_starttransfer: 0.425
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  1.497
+size_download: 91580
+url_effective: http://www.mercadolibre.com.ar/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.098
+time_appconnect: 0.000
+time_pretransfer: 0.099
+time_starttransfer: 0.285
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 216.33.197.78 (216.33.197.78) 56(84) bytes of data.
+64 bytes from 216.33.197.78: icmp_seq=1 ttl=247 time=87.3 ms
+64 bytes from 216.33.197.78: icmp_seq=2 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=3 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=4 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=5 ttl=247 time=87.1 ms
+64 bytes from 216.33.197.78: icmp_seq=6 ttl=247 time=88.6 ms
+64 bytes from 216.33.197.78: icmp_seq=7 ttl=247 time=87.1 ms
+64 bytes from 216.33.197.78: icmp_seq=8 ttl=247 time=87.2 ms
+64 bytes from 216.33.197.78: icmp_seq=9 ttl=247 time=87.6 ms
+64 bytes from 216.33.197.78: icmp_seq=10 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=11 ttl=247 time=87.3 ms
+64 bytes from 216.33.197.78: icmp_seq=12 ttl=247 time=87.8 ms
+64 bytes from 216.33.197.78: icmp_seq=13 ttl=247 time=87.2 ms
+64 bytes from 216.33.197.78: icmp_seq=14 ttl=247 time=87.6 ms
+64 bytes from 216.33.197.78: icmp_seq=15 ttl=247 time=88.2 ms
+64 bytes from 216.33.197.78: icmp_seq=16 ttl=247 time=87.5 ms
+64 bytes from 216.33.197.78: icmp_seq=17 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=18 ttl=247 time=87.5 ms
+64 bytes from 216.33.197.78: icmp_seq=19 ttl=247 time=87.5 ms
+64 bytes from 216.33.197.78: icmp_seq=20 ttl=247 time=87.3 ms
+64 bytes from 216.33.197.78: icmp_seq=21 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=22 ttl=247 time=87.2 ms
+64 bytes from 216.33.197.78: icmp_seq=23 ttl=247 time=87.2 ms
+64 bytes from 216.33.197.78: icmp_seq=24 ttl=247 time=87.5 ms
+64 bytes from 216.33.197.78: icmp_seq=25 ttl=247 time=87.3 ms
+64 bytes from 216.33.197.78: icmp_seq=26 ttl=247 time=87.1 ms
+64 bytes from 216.33.197.78: icmp_seq=27 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=28 ttl=247 time=87.5 ms
+64 bytes from 216.33.197.78: icmp_seq=29 ttl=247 time=87.4 ms
+64 bytes from 216.33.197.78: icmp_seq=30 ttl=247 time=87.4 ms
+
+--- 216.33.197.78 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5829ms
+rtt min/avg/max/mdev = 87.115/87.489/88.604/0.508 ms
+############### END PING
+############### START TR
+traceroute to 216.33.197.78 (216.33.197.78), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.257 ms  2.211 ms  2.176 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://web.de/
+TIME_OF_TEST 1446821041
+DESTIP 82.165.229.31
+DESTIPHOT 82.165.230.17
+
+time_namelookup:  0.029
+time_total:  0.464
+size_download: 248225
+url_effective: https://web.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.057
+time_appconnect: 0.147
+time_pretransfer: 0.147
+time_starttransfer: 0.275
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.368
+size_download: 248378
+url_effective: https://web.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.039
+time_appconnect: 0.119
+time_pretransfer: 0.119
+time_starttransfer: 0.194
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 82.165.229.31 (82.165.229.31) 56(84) bytes of data.
+64 bytes from 82.165.229.31: icmp_seq=1 ttl=247 time=28.2 ms
+64 bytes from 82.165.229.31: icmp_seq=2 ttl=247 time=29.1 ms
+64 bytes from 82.165.229.31: icmp_seq=3 ttl=247 time=28.8 ms
+64 bytes from 82.165.229.31: icmp_seq=4 ttl=247 time=28.7 ms
+64 bytes from 82.165.229.31: icmp_seq=5 ttl=247 time=29.0 ms
+64 bytes from 82.165.229.31: icmp_seq=6 ttl=247 time=28.8 ms
+64 bytes from 82.165.229.31: icmp_seq=7 ttl=247 time=29.6 ms
+64 bytes from 82.165.229.31: icmp_seq=8 ttl=247 time=28.5 ms
+64 bytes from 82.165.229.31: icmp_seq=9 ttl=247 time=29.2 ms
+64 bytes from 82.165.229.31: icmp_seq=10 ttl=247 time=28.3 ms
+64 bytes from 82.165.229.31: icmp_seq=11 ttl=247 time=29.0 ms
+64 bytes from 82.165.229.31: icmp_seq=12 ttl=247 time=28.8 ms
+64 bytes from 82.165.229.31: icmp_seq=13 ttl=247 time=29.6 ms
+64 bytes from 82.165.229.31: icmp_seq=14 ttl=247 time=29.2 ms
+64 bytes from 82.165.229.31: icmp_seq=15 ttl=247 time=29.0 ms
+64 bytes from 82.165.229.31: icmp_seq=16 ttl=247 time=28.8 ms
+64 bytes from 82.165.229.31: icmp_seq=17 ttl=247 time=29.0 ms
+64 bytes from 82.165.229.31: icmp_seq=18 ttl=247 time=28.9 ms
+64 bytes from 82.165.229.31: icmp_seq=19 ttl=247 time=28.6 ms
+64 bytes from 82.165.229.31: icmp_seq=20 ttl=247 time=28.5 ms
+64 bytes from 82.165.229.31: icmp_seq=21 ttl=247 time=28.7 ms
+64 bytes from 82.165.229.31: icmp_seq=22 ttl=247 time=28.4 ms
+64 bytes from 82.165.229.31: icmp_seq=23 ttl=247 time=28.6 ms
+64 bytes from 82.165.229.31: icmp_seq=24 ttl=247 time=29.4 ms
+64 bytes from 82.165.229.31: icmp_seq=25 ttl=247 time=28.7 ms
+64 bytes from 82.165.229.31: icmp_seq=26 ttl=247 time=28.7 ms
+64 bytes from 82.165.229.31: icmp_seq=27 ttl=247 time=28.6 ms
+64 bytes from 82.165.229.31: icmp_seq=28 ttl=247 time=29.3 ms
+64 bytes from 82.165.229.31: icmp_seq=29 ttl=247 time=28.6 ms
+64 bytes from 82.165.229.31: icmp_seq=30 ttl=247 time=29.3 ms
+
+--- 82.165.229.31 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5841ms
+rtt min/avg/max/mdev = 28.266/28.908/29.693/0.420 ms
+############### END PING
+############### START TR
+traceroute to 82.165.229.31 (82.165.229.31), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.739 ms  1.661 ms  1.616 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.google.co.za/
+TIME_OF_TEST 1446821064
+DESTIP 216.58.210.3
+DESTIPHOT 216.58.210.3
+
+time_namelookup:  0.061
+time_total:  0.248
+size_download: 184637
+url_effective: https://www.google.co.za/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.074
+time_appconnect: 0.108
+time_pretransfer: 0.108
+time_starttransfer: 0.205
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.188
+size_download: 184547
+url_effective: https://www.google.co.za/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.025
+time_appconnect: 0.058
+time_pretransfer: 0.058
+time_starttransfer: 0.147
+
+############### START TCP-DATA
+110976001 0 13.2
+1 2841 27.0
+2841 6957 27.8
+6957 10562 29.9
+10562 10613 46.6
+10613 19133 143.8
+19133 19193 145.2
+19193 27773 146.6
+27773 36353 148.6
+36353 44933 155.9
+44933 53513 158.6
+53513 69133 160.6
+69133 83543 161.2
+83543 84963 162.3
+84963 87833 163.0
+87833 92123 167.9
+92123 100703 169.6
+100703 109283 171.3
+############### END TCP-DATA
+############### START PING
+PING 216.58.210.3 (216.58.210.3) 56(84) bytes of data.
+64 bytes from 216.58.210.3: icmp_seq=1 ttl=56 time=12.6 ms
+64 bytes from 216.58.210.3: icmp_seq=2 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=3 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.3: icmp_seq=4 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=5 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=6 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=7 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.3: icmp_seq=8 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=9 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=10 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=11 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=12 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=13 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=14 ttl=56 time=13.2 ms
+64 bytes from 216.58.210.3: icmp_seq=15 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=16 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=17 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=18 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=19 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=20 ttl=56 time=13.2 ms
+64 bytes from 216.58.210.3: icmp_seq=21 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=22 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=23 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.3: icmp_seq=24 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=25 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.3: icmp_seq=26 ttl=56 time=13.0 ms
+64 bytes from 216.58.210.3: icmp_seq=27 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.3: icmp_seq=28 ttl=56 time=13.1 ms
+64 bytes from 216.58.210.3: icmp_seq=29 ttl=56 time=13.0 ms
+64 bytes from 216.58.210.3: icmp_seq=30 ttl=56 time=13.3 ms
+
+--- 216.58.210.3 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5842ms
+rtt min/avg/max/mdev = 12.688/13.395/13.673/0.252 ms
+############### END PING
+############### START TR
+traceroute to 216.58.210.3 (216.58.210.3), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.346 ms  2.245 ms  2.182 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.yandex.com.tr/
+TIME_OF_TEST 1446821083
+DESTIP 87.250.255.11
+DESTIPHOT 87.250.255.11
+
+time_namelookup:  0.031
+time_total:  0.668
+size_download: 134745
+url_effective: https://www.yandex.com.tr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.057
+time_appconnect: 0.114
+time_pretransfer: 0.114
+time_starttransfer: 0.257
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.468
+size_download: 134745
+url_effective: https://www.yandex.com.tr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.040
+time_appconnect: 0.098
+time_pretransfer: 0.098
+time_starttransfer: 0.310
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 87.250.255.11 (87.250.255.11) 56(84) bytes of data.
+64 bytes from 87.250.255.11: icmp_seq=1 ttl=58 time=26.8 ms
+64 bytes from 87.250.255.11: icmp_seq=2 ttl=58 time=27.4 ms
+64 bytes from 87.250.255.11: icmp_seq=3 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=4 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=5 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=6 ttl=58 time=27.2 ms
+64 bytes from 87.250.255.11: icmp_seq=7 ttl=58 time=27.4 ms
+64 bytes from 87.250.255.11: icmp_seq=8 ttl=58 time=27.4 ms
+64 bytes from 87.250.255.11: icmp_seq=9 ttl=58 time=27.0 ms
+64 bytes from 87.250.255.11: icmp_seq=10 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=11 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=12 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=13 ttl=58 time=27.2 ms
+64 bytes from 87.250.255.11: icmp_seq=14 ttl=58 time=27.5 ms
+64 bytes from 87.250.255.11: icmp_seq=15 ttl=58 time=27.5 ms
+64 bytes from 87.250.255.11: icmp_seq=16 ttl=58 time=27.5 ms
+64 bytes from 87.250.255.11: icmp_seq=17 ttl=58 time=26.9 ms
+64 bytes from 87.250.255.11: icmp_seq=18 ttl=58 time=27.0 ms
+64 bytes from 87.250.255.11: icmp_seq=19 ttl=58 time=27.2 ms
+64 bytes from 87.250.255.11: icmp_seq=20 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=21 ttl=58 time=27.4 ms
+64 bytes from 87.250.255.11: icmp_seq=22 ttl=58 time=27.1 ms
+64 bytes from 87.250.255.11: icmp_seq=23 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=24 ttl=58 time=26.9 ms
+64 bytes from 87.250.255.11: icmp_seq=25 ttl=58 time=27.6 ms
+64 bytes from 87.250.255.11: icmp_seq=26 ttl=58 time=27.3 ms
+64 bytes from 87.250.255.11: icmp_seq=27 ttl=58 time=27.5 ms
+64 bytes from 87.250.255.11: icmp_seq=28 ttl=58 time=27.4 ms
+64 bytes from 87.250.255.11: icmp_seq=29 ttl=58 time=27.2 ms
+64 bytes from 87.250.255.11: icmp_seq=30 ttl=58 time=27.1 ms
+
+--- 87.250.255.11 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5835ms
+rtt min/avg/max/mdev = 26.874/27.304/27.617/0.288 ms
+############### END PING
+############### START TR
+traceroute to 87.250.255.11 (87.250.255.11), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.869 ms  1.814 ms  1.773 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://farsnews.com/
+TIME_OF_TEST 1446821105
+DESTIP 178.22.78.1
+DESTIPHOT 178.22.78.2
+
+time_namelookup:  1.523
+time_total:  1.676
+size_download: 178
+url_effective: http://farsnews.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 1.600
+time_appconnect: 0.000
+time_pretransfer: 1.600
+time_starttransfer: 1.676
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.175
+size_download: 178
+url_effective: http://farsnews.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.094
+time_appconnect: 0.000
+time_pretransfer: 0.094
+time_starttransfer: 0.175
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 178.22.78.1 (178.22.78.1) 56(84) bytes of data.
+64 bytes from 178.22.78.1: icmp_seq=1 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=2 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=3 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=4 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=5 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=6 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=7 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=8 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=9 ttl=49 time=79.2 ms
+64 bytes from 178.22.78.1: icmp_seq=10 ttl=49 time=79.6 ms
+64 bytes from 178.22.78.1: icmp_seq=11 ttl=49 time=79.7 ms
+64 bytes from 178.22.78.1: icmp_seq=12 ttl=49 time=79.9 ms
+64 bytes from 178.22.78.1: icmp_seq=13 ttl=49 time=79.6 ms
+64 bytes from 178.22.78.1: icmp_seq=14 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=15 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=16 ttl=49 time=79.6 ms
+64 bytes from 178.22.78.1: icmp_seq=17 ttl=49 time=79.5 ms
+64 bytes from 178.22.78.1: icmp_seq=18 ttl=49 time=79.5 ms
+64 bytes from 178.22.78.1: icmp_seq=19 ttl=49 time=79.7 ms
+64 bytes from 178.22.78.1: icmp_seq=20 ttl=49 time=79.7 ms
+64 bytes from 178.22.78.1: icmp_seq=21 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=22 ttl=49 time=79.7 ms
+64 bytes from 178.22.78.1: icmp_seq=23 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=24 ttl=49 time=79.4 ms
+64 bytes from 178.22.78.1: icmp_seq=25 ttl=49 time=79.2 ms
+64 bytes from 178.22.78.1: icmp_seq=26 ttl=49 time=79.5 ms
+64 bytes from 178.22.78.1: icmp_seq=27 ttl=49 time=79.5 ms
+64 bytes from 178.22.78.1: icmp_seq=28 ttl=49 time=79.8 ms
+64 bytes from 178.22.78.1: icmp_seq=29 ttl=49 time=79.3 ms
+64 bytes from 178.22.78.1: icmp_seq=30 ttl=49 time=79.2 ms
+
+--- 178.22.78.1 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5856ms
+rtt min/avg/max/mdev = 79.207/79.513/79.909/0.347 ms
+############### END PING
+############### START TR
+traceroute to 178.22.78.1 (178.22.78.1), 30 hops max, 60 byte packets
+ 1  10.0.2.2  3.079 ms  3.022 ms  2.979 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.yahoo.com/
+TIME_OF_TEST 1446821131
+DESTIP 98.139.180.149
+DESTIPHOT 98.139.183.24
+
+time_namelookup:  0.029
+time_total:  0.746
+size_download: 82
+url_effective: https://www.yahoo.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.122
+time_appconnect: 0.322
+time_pretransfer: 0.323
+time_starttransfer: 0.746
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.729
+size_download: 80
+url_effective: https://www.yahoo.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.105
+time_appconnect: 0.299
+time_pretransfer: 0.299
+time_starttransfer: 0.729
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 98.139.180.149 (98.139.180.149) 56(84) bytes of data.
+64 bytes from 98.139.180.149: icmp_seq=1 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=2 ttl=47 time=93.4 ms
+64 bytes from 98.139.180.149: icmp_seq=3 ttl=47 time=94.2 ms
+64 bytes from 98.139.180.149: icmp_seq=4 ttl=47 time=93.0 ms
+64 bytes from 98.139.180.149: icmp_seq=5 ttl=47 time=93.8 ms
+64 bytes from 98.139.180.149: icmp_seq=6 ttl=47 time=93.3 ms
+64 bytes from 98.139.180.149: icmp_seq=7 ttl=47 time=97.7 ms
+64 bytes from 98.139.180.149: icmp_seq=8 ttl=47 time=95.4 ms
+64 bytes from 98.139.180.149: icmp_seq=9 ttl=47 time=95.4 ms
+64 bytes from 98.139.180.149: icmp_seq=10 ttl=47 time=93.7 ms
+64 bytes from 98.139.180.149: icmp_seq=11 ttl=47 time=93.3 ms
+64 bytes from 98.139.180.149: icmp_seq=12 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=13 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=14 ttl=47 time=93.2 ms
+64 bytes from 98.139.180.149: icmp_seq=15 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=16 ttl=47 time=95.1 ms
+64 bytes from 98.139.180.149: icmp_seq=17 ttl=47 time=93.5 ms
+64 bytes from 98.139.180.149: icmp_seq=18 ttl=47 time=93.8 ms
+64 bytes from 98.139.180.149: icmp_seq=19 ttl=47 time=94.4 ms
+64 bytes from 98.139.180.149: icmp_seq=20 ttl=47 time=93.2 ms
+64 bytes from 98.139.180.149: icmp_seq=21 ttl=47 time=93.0 ms
+64 bytes from 98.139.180.149: icmp_seq=22 ttl=47 time=93.0 ms
+64 bytes from 98.139.180.149: icmp_seq=23 ttl=47 time=93.3 ms
+64 bytes from 98.139.180.149: icmp_seq=24 ttl=47 time=93.0 ms
+64 bytes from 98.139.180.149: icmp_seq=25 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=26 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=27 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=28 ttl=47 time=93.3 ms
+64 bytes from 98.139.180.149: icmp_seq=29 ttl=47 time=93.1 ms
+64 bytes from 98.139.180.149: icmp_seq=30 ttl=47 time=93.2 ms
+
+--- 98.139.180.149 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5841ms
+rtt min/avg/max/mdev = 93.059/93.721/97.718/1.012 ms
+############### END PING
+############### START TR
+traceroute to 98.139.180.149 (98.139.180.149), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.211 ms  0.154 ms  0.132 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://eksisozluk.com/
+TIME_OF_TEST 1446821147
+DESTIP 176.53.43.3
+DESTIPHOT 176.53.43.5
+
+time_namelookup:  0.132
+time_total:  0.487
+size_download: 25975
+url_effective: https://eksisozluk.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.197
+time_appconnect: 0.333
+time_pretransfer: 0.333
+time_starttransfer: 0.484
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.371
+size_download: 26078
+url_effective: https://eksisozluk.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.080
+time_appconnect: 0.216
+time_pretransfer: 0.216
+time_starttransfer: 0.369
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 176.53.43.3 (176.53.43.3) 56(84) bytes of data.
+64 bytes from 176.53.43.3: icmp_seq=1 ttl=50 time=65.8 ms
+64 bytes from 176.53.43.3: icmp_seq=2 ttl=50 time=66.2 ms
+64 bytes from 176.53.43.3: icmp_seq=3 ttl=50 time=66.1 ms
+64 bytes from 176.53.43.3: icmp_seq=4 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=5 ttl=50 time=66.5 ms
+64 bytes from 176.53.43.3: icmp_seq=6 ttl=48 time=70.8 ms
+64 bytes from 176.53.43.3: icmp_seq=7 ttl=48 time=70.5 ms
+64 bytes from 176.53.43.3: icmp_seq=8 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=9 ttl=50 time=65.8 ms
+64 bytes from 176.53.43.3: icmp_seq=10 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=11 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=12 ttl=50 time=65.8 ms
+64 bytes from 176.53.43.3: icmp_seq=13 ttl=50 time=65.6 ms
+64 bytes from 176.53.43.3: icmp_seq=14 ttl=50 time=66.1 ms
+64 bytes from 176.53.43.3: icmp_seq=15 ttl=48 time=70.5 ms
+64 bytes from 176.53.43.3: icmp_seq=16 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=17 ttl=50 time=66.0 ms
+64 bytes from 176.53.43.3: icmp_seq=18 ttl=50 time=65.8 ms
+64 bytes from 176.53.43.3: icmp_seq=19 ttl=48 time=70.6 ms
+64 bytes from 176.53.43.3: icmp_seq=20 ttl=50 time=65.6 ms
+64 bytes from 176.53.43.3: icmp_seq=21 ttl=48 time=70.3 ms
+64 bytes from 176.53.43.3: icmp_seq=22 ttl=50 time=66.1 ms
+64 bytes from 176.53.43.3: icmp_seq=23 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=24 ttl=48 time=70.8 ms
+64 bytes from 176.53.43.3: icmp_seq=25 ttl=48 time=70.9 ms
+64 bytes from 176.53.43.3: icmp_seq=26 ttl=48 time=70.9 ms
+64 bytes from 176.53.43.3: icmp_seq=27 ttl=50 time=66.1 ms
+64 bytes from 176.53.43.3: icmp_seq=28 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=29 ttl=50 time=65.9 ms
+64 bytes from 176.53.43.3: icmp_seq=30 ttl=48 time=70.5 ms
+
+--- 176.53.43.3 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5833ms
+rtt min/avg/max/mdev = 65.672/67.402/70.995/2.174 ms
+############### END PING
+############### START TR
+traceroute to 176.53.43.3 (176.53.43.3), 30 hops max, 60 byte packets
+ 1  10.0.2.2  3.044 ms  2.995 ms  2.946 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.news.com.au/
+TIME_OF_TEST 1446821169
+DESTIP 193.1.253.136
+DESTIPHOT 193.1.253.139
+
+time_namelookup:  0.062
+time_total:  0.469
+size_download: 203109
+url_effective: http://www.news.com.au/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.065
+time_appconnect: 0.000
+time_pretransfer: 0.065
+time_starttransfer: 0.436
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.205
+size_download: 203109
+url_effective: http://www.news.com.au/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.000
+time_pretransfer: 0.016
+time_starttransfer: 0.177
+
+############### START TCP-DATA
+120960001 0 2.9
+1 2841 373.0
+2841 7101 375.7
+7101 12781 381.3
+12781 19881 384.4
+19881 28401 386.2
+28401 38341 388.1
+38341 49701 389.9
+49701 62481 391.6
+62481 76681 393.3
+76681 92301 395.1
+92301 109341 396.9
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.136 (193.1.253.136) 56(84) bytes of data.
+64 bytes from 193.1.253.136: icmp_seq=1 ttl=58 time=3.01 ms
+64 bytes from 193.1.253.136: icmp_seq=2 ttl=58 time=4.13 ms
+64 bytes from 193.1.253.136: icmp_seq=3 ttl=58 time=4.15 ms
+64 bytes from 193.1.253.136: icmp_seq=4 ttl=58 time=3.57 ms
+64 bytes from 193.1.253.136: icmp_seq=5 ttl=58 time=3.88 ms
+64 bytes from 193.1.253.136: icmp_seq=6 ttl=58 time=4.42 ms
+64 bytes from 193.1.253.136: icmp_seq=7 ttl=58 time=3.21 ms
+64 bytes from 193.1.253.136: icmp_seq=8 ttl=58 time=3.30 ms
+64 bytes from 193.1.253.136: icmp_seq=9 ttl=58 time=4.35 ms
+64 bytes from 193.1.253.136: icmp_seq=10 ttl=58 time=4.23 ms
+64 bytes from 193.1.253.136: icmp_seq=11 ttl=58 time=3.62 ms
+64 bytes from 193.1.253.136: icmp_seq=12 ttl=58 time=3.92 ms
+64 bytes from 193.1.253.136: icmp_seq=13 ttl=58 time=4.14 ms
+64 bytes from 193.1.253.136: icmp_seq=14 ttl=58 time=3.78 ms
+64 bytes from 193.1.253.136: icmp_seq=15 ttl=58 time=3.62 ms
+64 bytes from 193.1.253.136: icmp_seq=16 ttl=58 time=4.05 ms
+64 bytes from 193.1.253.136: icmp_seq=17 ttl=58 time=3.71 ms
+64 bytes from 193.1.253.136: icmp_seq=18 ttl=58 time=4.08 ms
+64 bytes from 193.1.253.136: icmp_seq=19 ttl=58 time=4.38 ms
+64 bytes from 193.1.253.136: icmp_seq=20 ttl=58 time=3.61 ms
+64 bytes from 193.1.253.136: icmp_seq=21 ttl=58 time=4.05 ms
+64 bytes from 193.1.253.136: icmp_seq=22 ttl=58 time=3.86 ms
+64 bytes from 193.1.253.136: icmp_seq=23 ttl=58 time=4.12 ms
+64 bytes from 193.1.253.136: icmp_seq=24 ttl=58 time=4.08 ms
+64 bytes from 193.1.253.136: icmp_seq=25 ttl=58 time=4.11 ms
+64 bytes from 193.1.253.136: icmp_seq=26 ttl=58 time=3.65 ms
+64 bytes from 193.1.253.136: icmp_seq=27 ttl=58 time=3.53 ms
+64 bytes from 193.1.253.136: icmp_seq=28 ttl=58 time=4.40 ms
+64 bytes from 193.1.253.136: icmp_seq=29 ttl=58 time=3.39 ms
+64 bytes from 193.1.253.136: icmp_seq=30 ttl=58 time=3.86 ms
+
+--- 193.1.253.136 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5847ms
+rtt min/avg/max/mdev = 3.014/3.878/4.425/0.362 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.136 (193.1.253.136), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.550 ms  2.457 ms  2.386 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.kijiji.ca/
+TIME_OF_TEST 1446821196
+DESTIP 195.78.85.99
+DESTIPHOT 195.78.85.99
+
+time_namelookup:  5.525
+time_total:  5.733
+size_download: 44784
+url_effective: https://www.kijiji.ca/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.551
+time_appconnect: 5.627
+time_pretransfer: 5.627
+time_starttransfer: 5.684
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.227
+size_download: 44784
+url_effective: https://www.kijiji.ca/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.038
+time_appconnect: 0.114
+time_pretransfer: 0.114
+time_starttransfer: 0.179
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 195.78.85.99 (195.78.85.99) 56(84) bytes of data.
+64 bytes from 195.78.85.99: icmp_seq=1 ttl=243 time=26.6 ms
+64 bytes from 195.78.85.99: icmp_seq=2 ttl=243 time=27.0 ms
+64 bytes from 195.78.85.99: icmp_seq=3 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=4 ttl=243 time=27.0 ms
+64 bytes from 195.78.85.99: icmp_seq=5 ttl=243 time=27.0 ms
+64 bytes from 195.78.85.99: icmp_seq=6 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=7 ttl=243 time=26.9 ms
+64 bytes from 195.78.85.99: icmp_seq=8 ttl=243 time=27.2 ms
+64 bytes from 195.78.85.99: icmp_seq=9 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=10 ttl=243 time=26.9 ms
+64 bytes from 195.78.85.99: icmp_seq=11 ttl=243 time=26.9 ms
+64 bytes from 195.78.85.99: icmp_seq=12 ttl=243 time=26.8 ms
+64 bytes from 195.78.85.99: icmp_seq=13 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=14 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=15 ttl=243 time=27.4 ms
+64 bytes from 195.78.85.99: icmp_seq=16 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=17 ttl=243 time=27.2 ms
+64 bytes from 195.78.85.99: icmp_seq=18 ttl=243 time=27.2 ms
+64 bytes from 195.78.85.99: icmp_seq=19 ttl=243 time=26.9 ms
+64 bytes from 195.78.85.99: icmp_seq=20 ttl=243 time=27.6 ms
+64 bytes from 195.78.85.99: icmp_seq=21 ttl=243 time=27.0 ms
+64 bytes from 195.78.85.99: icmp_seq=22 ttl=243 time=26.8 ms
+64 bytes from 195.78.85.99: icmp_seq=23 ttl=243 time=27.0 ms
+64 bytes from 195.78.85.99: icmp_seq=24 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=25 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=26 ttl=243 time=27.2 ms
+64 bytes from 195.78.85.99: icmp_seq=27 ttl=243 time=27.1 ms
+64 bytes from 195.78.85.99: icmp_seq=28 ttl=243 time=27.2 ms
+64 bytes from 195.78.85.99: icmp_seq=29 ttl=243 time=26.9 ms
+64 bytes from 195.78.85.99: icmp_seq=30 ttl=243 time=27.5 ms
+
+--- 195.78.85.99 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5858ms
+rtt min/avg/max/mdev = 26.644/27.117/27.688/0.242 ms
+############### END PING
+############### START TR
+traceroute to 195.78.85.99 (195.78.85.99), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.239 ms  2.112 ms  2.070 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.cbc.ca/
+TIME_OF_TEST 1446821215
+DESTIP 193.1.253.145
+DESTIPHOT 193.1.253.136
+
+time_namelookup:  0.063
+time_total:  0.351
+size_download: 105790
+url_effective: http://www.cbc.ca/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.066
+time_appconnect: 0.000
+time_pretransfer: 0.066
+time_starttransfer: 0.324
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.056
+size_download: 105790
+url_effective: http://www.cbc.ca/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.000
+time_pretransfer: 0.016
+time_starttransfer: 0.037
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.145 (193.1.253.145) 56(84) bytes of data.
+64 bytes from 193.1.253.145: icmp_seq=1 ttl=58 time=3.19 ms
+64 bytes from 193.1.253.145: icmp_seq=2 ttl=58 time=4.30 ms
+64 bytes from 193.1.253.145: icmp_seq=3 ttl=58 time=3.36 ms
+64 bytes from 193.1.253.145: icmp_seq=4 ttl=58 time=3.06 ms
+64 bytes from 193.1.253.145: icmp_seq=5 ttl=58 time=3.89 ms
+64 bytes from 193.1.253.145: icmp_seq=6 ttl=58 time=4.44 ms
+64 bytes from 193.1.253.145: icmp_seq=7 ttl=58 time=3.82 ms
+64 bytes from 193.1.253.145: icmp_seq=8 ttl=58 time=3.40 ms
+64 bytes from 193.1.253.145: icmp_seq=9 ttl=58 time=4.59 ms
+64 bytes from 193.1.253.145: icmp_seq=10 ttl=58 time=4.67 ms
+64 bytes from 193.1.253.145: icmp_seq=11 ttl=58 time=3.83 ms
+64 bytes from 193.1.253.145: icmp_seq=12 ttl=58 time=4.39 ms
+64 bytes from 193.1.253.145: icmp_seq=13 ttl=58 time=3.76 ms
+64 bytes from 193.1.253.145: icmp_seq=14 ttl=58 time=3.47 ms
+64 bytes from 193.1.253.145: icmp_seq=15 ttl=58 time=4.10 ms
+64 bytes from 193.1.253.145: icmp_seq=16 ttl=58 time=4.24 ms
+64 bytes from 193.1.253.145: icmp_seq=17 ttl=58 time=4.27 ms
+64 bytes from 193.1.253.145: icmp_seq=18 ttl=58 time=4.55 ms
+64 bytes from 193.1.253.145: icmp_seq=19 ttl=58 time=3.51 ms
+64 bytes from 193.1.253.145: icmp_seq=20 ttl=58 time=4.14 ms
+64 bytes from 193.1.253.145: icmp_seq=21 ttl=58 time=4.09 ms
+64 bytes from 193.1.253.145: icmp_seq=22 ttl=58 time=3.46 ms
+64 bytes from 193.1.253.145: icmp_seq=23 ttl=58 time=3.38 ms
+64 bytes from 193.1.253.145: icmp_seq=24 ttl=58 time=3.50 ms
+64 bytes from 193.1.253.145: icmp_seq=25 ttl=58 time=3.42 ms
+64 bytes from 193.1.253.145: icmp_seq=26 ttl=58 time=3.34 ms
+64 bytes from 193.1.253.145: icmp_seq=27 ttl=58 time=3.22 ms
+64 bytes from 193.1.253.145: icmp_seq=28 ttl=58 time=3.09 ms
+64 bytes from 193.1.253.145: icmp_seq=29 ttl=58 time=4.19 ms
+64 bytes from 193.1.253.145: icmp_seq=30 ttl=58 time=4.08 ms
+
+--- 193.1.253.145 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5849ms
+rtt min/avg/max/mdev = 3.068/3.830/4.672/0.482 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.145 (193.1.253.145), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.715 ms  2.625 ms  2.552 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.aftonbladet.se/
+TIME_OF_TEST 1446821233
+DESTIP 144.63.250.5
+DESTIPHOT 144.63.250.10
+
+time_namelookup:  0.132
+time_total:  0.818
+size_download: 238494
+url_effective: http://www.aftonbladet.se/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.196
+time_appconnect: 0.000
+time_pretransfer: 0.196
+time_starttransfer: 0.259
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.648
+size_download: 238494
+url_effective: http://www.aftonbladet.se/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.077
+time_appconnect: 0.000
+time_pretransfer: 0.077
+time_starttransfer: 0.142
+
+############### START TCP-DATA
+137024001 0 63.0
+1 2841 126.7
+2841 5841 127.7
+5841 11521 130.0
+11521 14601 132.2
+14601 20441 188.6
+20441 29201 191.6
+29201 37961 250.9
+37961 46721 254.0
+46721 54021 312.8
+54021 62781 315.2
+62781 71541 374.7
+71541 80301 377.3
+80301 93441 379.3
+93441 100741 436.5
+100741 109501 438.8
+109501 125561 441.0
+############### END TCP-DATA
+############### START PING
+PING 144.63.250.5 (144.63.250.5) 56(84) bytes of data.
+
+--- 144.63.250.5 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 6043ms
+
+############### END PING
+############### START TR
+traceroute to 144.63.250.5 (144.63.250.5), 30 hops max, 60 byte packets
+ 1  10.0.2.2  3.424 ms  3.244 ms  3.105 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.ebay.com.au/
+TIME_OF_TEST 1446821266
+DESTIP 23.58.218.124
+DESTIPHOT 23.58.218.124
+
+time_namelookup:  0.256
+time_total:  0.867
+size_download: 171133
+url_effective: http://www.ebay.com.au/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.288
+time_appconnect: 0.000
+time_pretransfer: 0.288
+time_starttransfer: 0.757
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.683
+size_download: 171193
+url_effective: http://www.ebay.com.au/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.045
+time_appconnect: 0.000
+time_pretransfer: 0.045
+time_starttransfer: 0.586
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 23.58.218.124 (23.58.218.124) 56(84) bytes of data.
+64 bytes from 23.58.218.124: icmp_seq=1 ttl=59 time=32.0 ms
+64 bytes from 23.58.218.124: icmp_seq=2 ttl=59 time=32.3 ms
+64 bytes from 23.58.218.124: icmp_seq=3 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=4 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=5 ttl=59 time=32.0 ms
+64 bytes from 23.58.218.124: icmp_seq=6 ttl=59 time=32.6 ms
+64 bytes from 23.58.218.124: icmp_seq=7 ttl=59 time=32.2 ms
+64 bytes from 23.58.218.124: icmp_seq=8 ttl=59 time=32.2 ms
+64 bytes from 23.58.218.124: icmp_seq=9 ttl=59 time=32.6 ms
+64 bytes from 23.58.218.124: icmp_seq=10 ttl=59 time=32.4 ms
+64 bytes from 23.58.218.124: icmp_seq=11 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=12 ttl=59 time=32.5 ms
+64 bytes from 23.58.218.124: icmp_seq=13 ttl=59 time=32.2 ms
+64 bytes from 23.58.218.124: icmp_seq=14 ttl=59 time=32.3 ms
+64 bytes from 23.58.218.124: icmp_seq=15 ttl=59 time=32.0 ms
+64 bytes from 23.58.218.124: icmp_seq=16 ttl=59 time=31.9 ms
+64 bytes from 23.58.218.124: icmp_seq=17 ttl=59 time=32.3 ms
+64 bytes from 23.58.218.124: icmp_seq=18 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=19 ttl=59 time=32.2 ms
+64 bytes from 23.58.218.124: icmp_seq=20 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=21 ttl=59 time=32.0 ms
+64 bytes from 23.58.218.124: icmp_seq=22 ttl=59 time=32.4 ms
+64 bytes from 23.58.218.124: icmp_seq=23 ttl=59 time=32.7 ms
+64 bytes from 23.58.218.124: icmp_seq=24 ttl=59 time=32.4 ms
+64 bytes from 23.58.218.124: icmp_seq=25 ttl=59 time=32.1 ms
+64 bytes from 23.58.218.124: icmp_seq=26 ttl=59 time=32.2 ms
+64 bytes from 23.58.218.124: icmp_seq=27 ttl=59 time=32.3 ms
+64 bytes from 23.58.218.124: icmp_seq=28 ttl=59 time=31.9 ms
+64 bytes from 23.58.218.124: icmp_seq=29 ttl=59 time=32.3 ms
+64 bytes from 23.58.218.124: icmp_seq=30 ttl=59 time=32.2 ms
+
+--- 23.58.218.124 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5826ms
+rtt min/avg/max/mdev = 31.937/32.270/32.796/0.282 ms
+############### END PING
+############### START TR
+traceroute to 23.58.218.124 (23.58.218.124), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.080 ms  2.029 ms  1.971 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.expressen.se/
+TIME_OF_TEST 1446821288
+DESTIP 193.1.253.138
+DESTIPHOT 193.1.253.139
+
+time_namelookup:  0.257
+time_total:  0.393
+size_download: 336577
+url_effective: http://www.expressen.se/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.260
+time_appconnect: 0.000
+time_pretransfer: 0.260
+time_starttransfer: 0.359
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.012
+time_total:  0.116
+size_download: 280073
+url_effective: http://www.expressen.se/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.015
+time_appconnect: 0.000
+time_pretransfer: 0.015
+time_starttransfer: 0.082
+
+############### START TCP-DATA
+147200001 0 2.8
+1 2841 101.6
+2841 3453 102.9
+3453 6293 104.3
+6293 12213 105.1
+12213 20733 107.1
+20733 30673 109.1
+30673 42033 111.1
+42033 54813 113.1
+54813 69013 114.9
+69013 84633 116.6
+84633 101673 118.4
+101673 120133 120.2
+120133 140013 122.1
+140013 152793 123.8
+152793 175513 124.0
+175513 199653 126.0
+199653 225213 128.0
+225213 236573 130.0
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.138 (193.1.253.138) 56(84) bytes of data.
+64 bytes from 193.1.253.138: icmp_seq=1 ttl=58 time=3.19 ms
+64 bytes from 193.1.253.138: icmp_seq=2 ttl=58 time=3.67 ms
+64 bytes from 193.1.253.138: icmp_seq=3 ttl=58 time=4.42 ms
+64 bytes from 193.1.253.138: icmp_seq=4 ttl=58 time=3.14 ms
+64 bytes from 193.1.253.138: icmp_seq=5 ttl=58 time=3.69 ms
+64 bytes from 193.1.253.138: icmp_seq=6 ttl=58 time=3.85 ms
+64 bytes from 193.1.253.138: icmp_seq=7 ttl=58 time=3.40 ms
+64 bytes from 193.1.253.138: icmp_seq=8 ttl=58 time=4.26 ms
+64 bytes from 193.1.253.138: icmp_seq=9 ttl=58 time=4.43 ms
+64 bytes from 193.1.253.138: icmp_seq=10 ttl=58 time=3.06 ms
+64 bytes from 193.1.253.138: icmp_seq=11 ttl=58 time=4.19 ms
+64 bytes from 193.1.253.138: icmp_seq=12 ttl=58 time=3.96 ms
+64 bytes from 193.1.253.138: icmp_seq=13 ttl=58 time=3.58 ms
+64 bytes from 193.1.253.138: icmp_seq=14 ttl=58 time=3.24 ms
+64 bytes from 193.1.253.138: icmp_seq=15 ttl=58 time=3.53 ms
+64 bytes from 193.1.253.138: icmp_seq=16 ttl=58 time=3.55 ms
+64 bytes from 193.1.253.138: icmp_seq=17 ttl=58 time=2.97 ms
+64 bytes from 193.1.253.138: icmp_seq=18 ttl=58 time=4.65 ms
+64 bytes from 193.1.253.138: icmp_seq=19 ttl=58 time=3.89 ms
+64 bytes from 193.1.253.138: icmp_seq=20 ttl=58 time=3.56 ms
+64 bytes from 193.1.253.138: icmp_seq=21 ttl=58 time=3.74 ms
+64 bytes from 193.1.253.138: icmp_seq=22 ttl=58 time=4.05 ms
+64 bytes from 193.1.253.138: icmp_seq=23 ttl=58 time=4.15 ms
+64 bytes from 193.1.253.138: icmp_seq=24 ttl=58 time=3.70 ms
+64 bytes from 193.1.253.138: icmp_seq=25 ttl=58 time=3.31 ms
+64 bytes from 193.1.253.138: icmp_seq=26 ttl=58 time=3.76 ms
+64 bytes from 193.1.253.138: icmp_seq=27 ttl=58 time=3.45 ms
+64 bytes from 193.1.253.138: icmp_seq=28 ttl=58 time=4.01 ms
+64 bytes from 193.1.253.138: icmp_seq=29 ttl=58 time=4.33 ms
+64 bytes from 193.1.253.138: icmp_seq=30 ttl=58 time=2.97 ms
+
+--- 193.1.253.138 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5846ms
+rtt min/avg/max/mdev = 2.972/3.728/4.655/0.452 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.138 (193.1.253.138), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.631 ms  1.567 ms  1.517 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.reddit.com/
+TIME_OF_TEST 1446821313
+DESTIP 198.41.209.136
+DESTIPHOT 198.41.208.143
+
+time_namelookup:  0.013
+time_total:  0.490
+size_download: 109421
+url_effective: https://www.reddit.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.027
+time_pretransfer: 0.027
+time_starttransfer: 0.471
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.044
+size_download: 109421
+url_effective: https://www.reddit.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.015
+time_appconnect: 0.026
+time_pretransfer: 0.026
+time_starttransfer: 0.030
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 198.41.209.136 (198.41.209.136) 56(84) bytes of data.
+64 bytes from 198.41.209.136: icmp_seq=1 ttl=60 time=2.95 ms
+64 bytes from 198.41.209.136: icmp_seq=2 ttl=60 time=4.38 ms
+64 bytes from 198.41.209.136: icmp_seq=3 ttl=60 time=4.05 ms
+64 bytes from 198.41.209.136: icmp_seq=4 ttl=60 time=4.18 ms
+64 bytes from 198.41.209.136: icmp_seq=5 ttl=60 time=4.03 ms
+64 bytes from 198.41.209.136: icmp_seq=6 ttl=60 time=3.62 ms
+64 bytes from 198.41.209.136: icmp_seq=7 ttl=60 time=3.95 ms
+64 bytes from 198.41.209.136: icmp_seq=8 ttl=60 time=2.78 ms
+64 bytes from 198.41.209.136: icmp_seq=9 ttl=60 time=4.00 ms
+64 bytes from 198.41.209.136: icmp_seq=10 ttl=60 time=5.94 ms
+64 bytes from 198.41.209.136: icmp_seq=11 ttl=60 time=3.51 ms
+64 bytes from 198.41.209.136: icmp_seq=12 ttl=60 time=3.41 ms
+64 bytes from 198.41.209.136: icmp_seq=13 ttl=60 time=3.57 ms
+64 bytes from 198.41.209.136: icmp_seq=14 ttl=60 time=3.85 ms
+64 bytes from 198.41.209.136: icmp_seq=15 ttl=60 time=3.38 ms
+64 bytes from 198.41.209.136: icmp_seq=16 ttl=60 time=3.95 ms
+64 bytes from 198.41.209.136: icmp_seq=17 ttl=60 time=3.86 ms
+64 bytes from 198.41.209.136: icmp_seq=18 ttl=60 time=3.99 ms
+64 bytes from 198.41.209.136: icmp_seq=19 ttl=60 time=3.69 ms
+64 bytes from 198.41.209.136: icmp_seq=20 ttl=60 time=4.19 ms
+64 bytes from 198.41.209.136: icmp_seq=21 ttl=60 time=3.29 ms
+64 bytes from 198.41.209.136: icmp_seq=22 ttl=60 time=3.96 ms
+64 bytes from 198.41.209.136: icmp_seq=23 ttl=60 time=3.77 ms
+64 bytes from 198.41.209.136: icmp_seq=24 ttl=60 time=3.93 ms
+64 bytes from 198.41.209.136: icmp_seq=25 ttl=60 time=3.57 ms
+64 bytes from 198.41.209.136: icmp_seq=26 ttl=60 time=3.53 ms
+64 bytes from 198.41.209.136: icmp_seq=27 ttl=60 time=3.91 ms
+64 bytes from 198.41.209.136: icmp_seq=28 ttl=60 time=3.91 ms
+64 bytes from 198.41.209.136: icmp_seq=29 ttl=60 time=3.03 ms
+64 bytes from 198.41.209.136: icmp_seq=30 ttl=60 time=3.19 ms
+
+--- 198.41.209.136 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5827ms
+rtt min/avg/max/mdev = 2.784/3.783/5.943/0.551 ms
+############### END PING
+############### START TR
+traceroute to 198.41.209.136 (198.41.209.136), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.581 ms  1.513 ms  1.482 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.milliyet.com.tr/
+TIME_OF_TEST 1446821339
+DESTIP 85.111.27.88
+DESTIPHOT 85.111.27.126
+
+time_namelookup:  0.126
+time_total:  0.656
+size_download: 203330
+url_effective: http://www.milliyet.com.tr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.202
+time_appconnect: 0.000
+time_pretransfer: 0.202
+time_starttransfer: 0.279
+
+CURLHOT FOLLOWS
+
+time_namelookup:  5.519
+time_total:  6.003
+size_download: 203330
+url_effective: http://www.milliyet.com.tr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.589
+time_appconnect: 0.000
+time_pretransfer: 5.589
+time_starttransfer: 5.659
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 85.111.27.88 (85.111.27.88) 56(84) bytes of data.
+
+--- 85.111.27.88 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 6030ms
+
+############### END PING
+############### START TR
+traceroute to 85.111.27.88 (85.111.27.88), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.804 ms  2.738 ms  2.681 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.google.com/
+TIME_OF_TEST 1446821376
+DESTIP 216.58.210.4
+DESTIPHOT 216.58.210.4
+
+time_namelookup:  5.523
+time_total:  5.598
+size_download: 257
+url_effective: https://www.google.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.537
+time_appconnect: 5.567
+time_pretransfer: 5.567
+time_starttransfer: 5.598
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.099
+size_download: 257
+url_effective: https://www.google.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.025
+time_appconnect: 0.054
+time_pretransfer: 0.054
+time_starttransfer: 0.099
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 216.58.210.4 (216.58.210.4) 56(84) bytes of data.
+64 bytes from 216.58.210.4: icmp_seq=1 ttl=56 time=12.8 ms
+64 bytes from 216.58.210.4: icmp_seq=2 ttl=56 time=13.8 ms
+64 bytes from 216.58.210.4: icmp_seq=3 ttl=56 time=13.7 ms
+64 bytes from 216.58.210.4: icmp_seq=4 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=5 ttl=56 time=13.9 ms
+64 bytes from 216.58.210.4: icmp_seq=6 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=7 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.4: icmp_seq=8 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=9 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.4: icmp_seq=10 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=11 ttl=56 time=13.8 ms
+64 bytes from 216.58.210.4: icmp_seq=12 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=13 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=14 ttl=56 time=13.7 ms
+64 bytes from 216.58.210.4: icmp_seq=15 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=16 ttl=56 time=13.9 ms
+64 bytes from 216.58.210.4: icmp_seq=17 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=18 ttl=56 time=13.8 ms
+64 bytes from 216.58.210.4: icmp_seq=19 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.4: icmp_seq=20 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.4: icmp_seq=21 ttl=56 time=13.5 ms
+64 bytes from 216.58.210.4: icmp_seq=22 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=23 ttl=56 time=13.7 ms
+64 bytes from 216.58.210.4: icmp_seq=24 ttl=56 time=13.6 ms
+64 bytes from 216.58.210.4: icmp_seq=25 ttl=56 time=13.7 ms
+64 bytes from 216.58.210.4: icmp_seq=26 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=27 ttl=56 time=13.4 ms
+64 bytes from 216.58.210.4: icmp_seq=28 ttl=56 time=13.2 ms
+64 bytes from 216.58.210.4: icmp_seq=29 ttl=56 time=13.3 ms
+64 bytes from 216.58.210.4: icmp_seq=30 ttl=56 time=13.2 ms
+
+--- 216.58.210.4 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5844ms
+rtt min/avg/max/mdev = 12.815/13.560/13.968/0.235 ms
+############### END PING
+############### START TR
+traceroute to 216.58.210.4 (216.58.210.4), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.994 ms  1.935 ms  1.893 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.pressan.is/
+TIME_OF_TEST 1446821393
+DESTIP 217.28.186.169
+DESTIPHOT 217.28.186.169
+
+time_namelookup:  0.127
+time_total:  0.599
+size_download: 115495
+url_effective: http://www.pressan.is/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.185
+time_appconnect: 0.000
+time_pretransfer: 0.185
+time_starttransfer: 0.308
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  2.659
+size_download: 115122
+url_effective: http://www.pressan.is/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.070
+time_appconnect: 0.000
+time_pretransfer: 0.070
+time_starttransfer: 2.375
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 217.28.186.169 (217.28.186.169) 56(84) bytes of data.
+64 bytes from 217.28.186.169: icmp_seq=1 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=2 ttl=243 time=57.6 ms
+64 bytes from 217.28.186.169: icmp_seq=3 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=4 ttl=243 time=58.1 ms
+64 bytes from 217.28.186.169: icmp_seq=5 ttl=243 time=58.3 ms
+64 bytes from 217.28.186.169: icmp_seq=6 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=7 ttl=243 time=57.6 ms
+64 bytes from 217.28.186.169: icmp_seq=8 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=9 ttl=243 time=83.1 ms
+64 bytes from 217.28.186.169: icmp_seq=10 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=11 ttl=243 time=57.9 ms
+64 bytes from 217.28.186.169: icmp_seq=12 ttl=243 time=57.9 ms
+64 bytes from 217.28.186.169: icmp_seq=13 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=14 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=15 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=16 ttl=243 time=58.2 ms
+64 bytes from 217.28.186.169: icmp_seq=17 ttl=243 time=58.5 ms
+64 bytes from 217.28.186.169: icmp_seq=18 ttl=243 time=73.1 ms
+64 bytes from 217.28.186.169: icmp_seq=19 ttl=243 time=57.5 ms
+64 bytes from 217.28.186.169: icmp_seq=20 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=21 ttl=243 time=57.7 ms
+64 bytes from 217.28.186.169: icmp_seq=22 ttl=243 time=57.9 ms
+64 bytes from 217.28.186.169: icmp_seq=23 ttl=243 time=58.3 ms
+64 bytes from 217.28.186.169: icmp_seq=24 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=25 ttl=243 time=57.8 ms
+64 bytes from 217.28.186.169: icmp_seq=26 ttl=243 time=59.1 ms
+64 bytes from 217.28.186.169: icmp_seq=27 ttl=243 time=58.5 ms
+64 bytes from 217.28.186.169: icmp_seq=28 ttl=243 time=57.6 ms
+64 bytes from 217.28.186.169: icmp_seq=29 ttl=243 time=57.9 ms
+64 bytes from 217.28.186.169: icmp_seq=30 ttl=243 time=57.7 ms
+
+--- 217.28.186.169 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5830ms
+rtt min/avg/max/mdev = 57.579/59.308/83.118/5.211 ms
+############### END PING
+############### START TR
+traceroute to 217.28.186.169 (217.28.186.169), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.732 ms  1.690 ms  1.667 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.craigslist.org/about/sites
+TIME_OF_TEST 1446821419
+DESTIP 208.82.238.241
+DESTIPHOT 208.82.238.241
+
+time_namelookup:  1.512
+time_total:  2.823
+size_download: 56971
+url_effective: https://www.craigslist.org/about/sites
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 1.668
+time_appconnect: 2.001
+time_pretransfer: 2.001
+time_starttransfer: 2.199
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.016
+time_total:  1.336
+size_download: 56971
+url_effective: https://www.craigslist.org/about/sites
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.170
+time_appconnect: 0.505
+time_pretransfer: 0.506
+time_starttransfer: 0.694
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 208.82.238.241 (208.82.238.241) 56(84) bytes of data.
+64 bytes from 208.82.238.241: icmp_seq=1 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=2 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=3 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=4 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=5 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=6 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=7 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=8 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=9 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=10 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=11 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=12 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=13 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=14 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=15 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=16 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=17 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=18 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=19 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=20 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=21 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=22 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=23 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=24 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=25 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=26 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=27 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=28 ttl=58 time=153 ms
+64 bytes from 208.82.238.241: icmp_seq=29 ttl=58 time=154 ms
+64 bytes from 208.82.238.241: icmp_seq=30 ttl=58 time=153 ms
+
+--- 208.82.238.241 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5821ms
+rtt min/avg/max/mdev = 153.543/153.928/154.533/0.488 ms
+############### END PING
+############### START TR
+traceroute to 208.82.238.241 (208.82.238.241), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.826 ms  2.779 ms  2.728 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.elmundo.es/
+TIME_OF_TEST 1446821448
+DESTIP 193.110.128.109
+DESTIPHOT 193.110.128.109
+
+time_namelookup:  0.013
+time_total:  0.447
+size_download: 192418
+url_effective: http://www.elmundo.es/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.060
+time_appconnect: 0.000
+time_pretransfer: 0.060
+time_starttransfer: 0.129
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.014
+time_total:  0.411
+size_download: 192418
+url_effective: http://www.elmundo.es/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.060
+time_appconnect: 0.000
+time_pretransfer: 0.061
+time_starttransfer: 0.129
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.110.128.109 (193.110.128.109) 56(84) bytes of data.
+
+--- 193.110.128.109 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 5968ms
+
+############### END PING
+############### START TR
+traceroute to 193.110.128.109 (193.110.128.109), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.799 ms  1.697 ms  1.625 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.ebay.com/
+TIME_OF_TEST 1446821481
+DESTIP 23.200.98.109
+DESTIPHOT 23.200.98.109
+
+time_namelookup:  0.260
+time_total:  0.876
+size_download: 165583
+url_effective: http://www.ebay.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.263
+time_appconnect: 0.000
+time_pretransfer: 0.263
+time_starttransfer: 0.686
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.542
+size_download: 165609
+url_effective: http://www.ebay.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.000
+time_pretransfer: 0.017
+time_starttransfer: 0.481
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 23.200.98.109 (23.200.98.109) 56(84) bytes of data.
+64 bytes from 23.200.98.109: icmp_seq=1 ttl=60 time=2.62 ms
+64 bytes from 23.200.98.109: icmp_seq=2 ttl=60 time=3.07 ms
+64 bytes from 23.200.98.109: icmp_seq=3 ttl=60 time=3.38 ms
+64 bytes from 23.200.98.109: icmp_seq=4 ttl=60 time=2.93 ms
+64 bytes from 23.200.98.109: icmp_seq=5 ttl=60 time=3.73 ms
+64 bytes from 23.200.98.109: icmp_seq=6 ttl=60 time=3.23 ms
+64 bytes from 23.200.98.109: icmp_seq=7 ttl=60 time=2.95 ms
+64 bytes from 23.200.98.109: icmp_seq=8 ttl=60 time=3.34 ms
+64 bytes from 23.200.98.109: icmp_seq=9 ttl=60 time=2.92 ms
+64 bytes from 23.200.98.109: icmp_seq=10 ttl=60 time=3.68 ms
+64 bytes from 23.200.98.109: icmp_seq=11 ttl=60 time=3.38 ms
+64 bytes from 23.200.98.109: icmp_seq=12 ttl=60 time=2.61 ms
+64 bytes from 23.200.98.109: icmp_seq=13 ttl=60 time=2.55 ms
+64 bytes from 23.200.98.109: icmp_seq=14 ttl=60 time=2.47 ms
+64 bytes from 23.200.98.109: icmp_seq=15 ttl=60 time=2.55 ms
+64 bytes from 23.200.98.109: icmp_seq=16 ttl=60 time=2.37 ms
+64 bytes from 23.200.98.109: icmp_seq=17 ttl=60 time=3.73 ms
+64 bytes from 23.200.98.109: icmp_seq=18 ttl=60 time=2.65 ms
+64 bytes from 23.200.98.109: icmp_seq=19 ttl=60 time=2.69 ms
+64 bytes from 23.200.98.109: icmp_seq=20 ttl=60 time=3.68 ms
+64 bytes from 23.200.98.109: icmp_seq=21 ttl=60 time=3.36 ms
+64 bytes from 23.200.98.109: icmp_seq=22 ttl=60 time=3.39 ms
+64 bytes from 23.200.98.109: icmp_seq=23 ttl=60 time=3.53 ms
+64 bytes from 23.200.98.109: icmp_seq=24 ttl=60 time=3.15 ms
+64 bytes from 23.200.98.109: icmp_seq=25 ttl=60 time=3.35 ms
+64 bytes from 23.200.98.109: icmp_seq=26 ttl=60 time=3.59 ms
+64 bytes from 23.200.98.109: icmp_seq=27 ttl=60 time=3.54 ms
+64 bytes from 23.200.98.109: icmp_seq=28 ttl=60 time=3.13 ms
+64 bytes from 23.200.98.109: icmp_seq=29 ttl=60 time=2.93 ms
+64 bytes from 23.200.98.109: icmp_seq=30 ttl=60 time=2.63 ms
+
+--- 23.200.98.109 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5838ms
+rtt min/avg/max/mdev = 2.375/3.108/3.733/0.423 ms
+############### END PING
+############### START TR
+traceroute to 23.200.98.109 (23.200.98.109), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.012 ms  0.961 ms  0.921 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.ennaharonline.com/ar/
+TIME_OF_TEST 1446821498
+DESTIP 46.105.63.213
+DESTIPHOT 46.105.63.213
+
+time_namelookup:  0.259
+time_total:  0.328
+size_download: 0
+url_effective: http://www.ennaharonline.com/ar/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.293
+time_appconnect: 0.000
+time_pretransfer: 0.293
+time_starttransfer: 0.328
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.082
+size_download: 0
+url_effective: http://www.ennaharonline.com/ar/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.046
+time_appconnect: 0.000
+time_pretransfer: 0.046
+time_starttransfer: 0.082
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 46.105.63.213 (46.105.63.213) 56(84) bytes of data.
+64 bytes from 46.105.63.213: icmp_seq=1 ttl=53 time=33.3 ms
+64 bytes from 46.105.63.213: icmp_seq=2 ttl=53 time=33.9 ms
+64 bytes from 46.105.63.213: icmp_seq=3 ttl=53 time=33.8 ms
+64 bytes from 46.105.63.213: icmp_seq=4 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=5 ttl=53 time=34.1 ms
+64 bytes from 46.105.63.213: icmp_seq=6 ttl=53 time=33.7 ms
+64 bytes from 46.105.63.213: icmp_seq=7 ttl=53 time=33.3 ms
+64 bytes from 46.105.63.213: icmp_seq=8 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=9 ttl=53 time=34.2 ms
+64 bytes from 46.105.63.213: icmp_seq=10 ttl=53 time=33.4 ms
+64 bytes from 46.105.63.213: icmp_seq=11 ttl=53 time=33.5 ms
+64 bytes from 46.105.63.213: icmp_seq=12 ttl=53 time=33.9 ms
+64 bytes from 46.105.63.213: icmp_seq=13 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=14 ttl=53 time=33.7 ms
+64 bytes from 46.105.63.213: icmp_seq=15 ttl=53 time=33.9 ms
+64 bytes from 46.105.63.213: icmp_seq=16 ttl=53 time=33.7 ms
+64 bytes from 46.105.63.213: icmp_seq=17 ttl=53 time=33.8 ms
+64 bytes from 46.105.63.213: icmp_seq=18 ttl=53 time=33.5 ms
+64 bytes from 46.105.63.213: icmp_seq=19 ttl=53 time=33.5 ms
+64 bytes from 46.105.63.213: icmp_seq=20 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=21 ttl=53 time=33.4 ms
+64 bytes from 46.105.63.213: icmp_seq=22 ttl=53 time=33.4 ms
+64 bytes from 46.105.63.213: icmp_seq=23 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=24 ttl=53 time=33.5 ms
+64 bytes from 46.105.63.213: icmp_seq=25 ttl=53 time=33.7 ms
+64 bytes from 46.105.63.213: icmp_seq=26 ttl=53 time=33.9 ms
+64 bytes from 46.105.63.213: icmp_seq=27 ttl=53 time=33.5 ms
+64 bytes from 46.105.63.213: icmp_seq=28 ttl=53 time=33.6 ms
+64 bytes from 46.105.63.213: icmp_seq=29 ttl=53 time=33.3 ms
+64 bytes from 46.105.63.213: icmp_seq=30 ttl=53 time=33.5 ms
+
+--- 46.105.63.213 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5833ms
+rtt min/avg/max/mdev = 33.323/33.686/34.206/0.334 ms
+############### END PING
+############### START TR
+traceroute to 46.105.63.213 (46.105.63.213), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.991 ms  1.936 ms  1.891 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://bazaraki.com/
+TIME_OF_TEST 1446821525
+DESTIP 91.238.176.41
+DESTIPHOT 91.238.176.41
+
+time_namelookup:  5.518
+time_total:  5.918
+size_download: 41518
+url_effective: http://bazaraki.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.553
+time_appconnect: 0.000
+time_pretransfer: 5.553
+time_starttransfer: 5.847
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.464
+size_download: 41395
+url_effective: http://bazaraki.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.051
+time_appconnect: 0.000
+time_pretransfer: 0.051
+time_starttransfer: 0.393
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 91.238.176.41 (91.238.176.41) 56(84) bytes of data.
+64 bytes from 91.238.176.41: icmp_seq=1 ttl=50 time=36.5 ms
+64 bytes from 91.238.176.41: icmp_seq=2 ttl=50 time=36.5 ms
+64 bytes from 91.238.176.41: icmp_seq=3 ttl=50 time=36.7 ms
+64 bytes from 91.238.176.41: icmp_seq=4 ttl=50 time=36.7 ms
+64 bytes from 91.238.176.41: icmp_seq=5 ttl=50 time=36.1 ms
+64 bytes from 91.238.176.41: icmp_seq=6 ttl=50 time=36.6 ms
+64 bytes from 91.238.176.41: icmp_seq=7 ttl=50 time=36.3 ms
+64 bytes from 91.238.176.41: icmp_seq=8 ttl=50 time=38.2 ms
+64 bytes from 91.238.176.41: icmp_seq=9 ttl=50 time=35.9 ms
+64 bytes from 91.238.176.41: icmp_seq=10 ttl=50 time=36.1 ms
+64 bytes from 91.238.176.41: icmp_seq=11 ttl=50 time=37.0 ms
+64 bytes from 91.238.176.41: icmp_seq=12 ttl=50 time=36.0 ms
+64 bytes from 91.238.176.41: icmp_seq=13 ttl=50 time=36.9 ms
+64 bytes from 91.238.176.41: icmp_seq=14 ttl=50 time=36.6 ms
+64 bytes from 91.238.176.41: icmp_seq=15 ttl=50 time=36.4 ms
+64 bytes from 91.238.176.41: icmp_seq=16 ttl=50 time=36.4 ms
+64 bytes from 91.238.176.41: icmp_seq=17 ttl=50 time=36.4 ms
+64 bytes from 91.238.176.41: icmp_seq=18 ttl=50 time=36.6 ms
+64 bytes from 91.238.176.41: icmp_seq=19 ttl=50 time=37.5 ms
+64 bytes from 91.238.176.41: icmp_seq=20 ttl=50 time=38.3 ms
+64 bytes from 91.238.176.41: icmp_seq=21 ttl=50 time=36.2 ms
+64 bytes from 91.238.176.41: icmp_seq=22 ttl=50 time=36.6 ms
+64 bytes from 91.238.176.41: icmp_seq=23 ttl=50 time=36.4 ms
+64 bytes from 91.238.176.41: icmp_seq=24 ttl=50 time=36.4 ms
+64 bytes from 91.238.176.41: icmp_seq=25 ttl=50 time=36.2 ms
+64 bytes from 91.238.176.41: icmp_seq=26 ttl=50 time=36.0 ms
+64 bytes from 91.238.176.41: icmp_seq=27 ttl=50 time=36.6 ms
+64 bytes from 91.238.176.41: icmp_seq=28 ttl=50 time=36.9 ms
+64 bytes from 91.238.176.41: icmp_seq=29 ttl=50 time=36.0 ms
+64 bytes from 91.238.176.41: icmp_seq=30 ttl=50 time=36.7 ms
+
+--- 91.238.176.41 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5836ms
+rtt min/avg/max/mdev = 35.983/36.634/38.325/0.593 ms
+############### END PING
+############### START TR
+traceroute to 91.238.176.41 (91.238.176.41), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.180 ms  2.086 ms  2.014 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.theguardian.com/uk
+TIME_OF_TEST 1446821542
+DESTIP 185.31.19.67
+DESTIPHOT 185.31.19.67
+
+time_namelookup:  0.013
+time_total:  0.253
+size_download: 635647
+url_effective: http://www.theguardian.com/uk
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.027
+time_appconnect: 0.000
+time_pretransfer: 0.027
+time_starttransfer: 0.161
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.005
+time_total:  0.121
+size_download: 635647
+url_effective: http://www.theguardian.com/uk
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.019
+time_appconnect: 0.000
+time_pretransfer: 0.019
+time_starttransfer: 0.033
+
+############### START TCP-DATA
+1 195 0.1
+############### END TCP-DATA
+############### START PING
+PING 185.31.19.67 (185.31.19.67) 56(84) bytes of data.
+64 bytes from 185.31.19.67: icmp_seq=1 ttl=59 time=14.5 ms
+64 bytes from 185.31.19.67: icmp_seq=2 ttl=59 time=15.3 ms
+64 bytes from 185.31.19.67: icmp_seq=3 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=4 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=5 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=6 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=7 ttl=59 time=16.0 ms
+64 bytes from 185.31.19.67: icmp_seq=8 ttl=59 time=14.9 ms
+64 bytes from 185.31.19.67: icmp_seq=9 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=10 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=11 ttl=59 time=15.9 ms
+64 bytes from 185.31.19.67: icmp_seq=12 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=13 ttl=59 time=15.3 ms
+64 bytes from 185.31.19.67: icmp_seq=14 ttl=59 time=15.4 ms
+64 bytes from 185.31.19.67: icmp_seq=15 ttl=59 time=15.1 ms
+64 bytes from 185.31.19.67: icmp_seq=16 ttl=59 time=15.2 ms
+64 bytes from 185.31.19.67: icmp_seq=17 ttl=59 time=15.0 ms
+64 bytes from 185.31.19.67: icmp_seq=18 ttl=59 time=15.3 ms
+64 bytes from 185.31.19.67: icmp_seq=19 ttl=59 time=15.2 ms
+64 bytes from 185.31.19.67: icmp_seq=20 ttl=59 time=15.2 ms
+64 bytes from 185.31.19.67: icmp_seq=21 ttl=59 time=14.8 ms
+64 bytes from 185.31.19.67: icmp_seq=22 ttl=59 time=14.9 ms
+64 bytes from 185.31.19.67: icmp_seq=23 ttl=59 time=15.2 ms
+64 bytes from 185.31.19.67: icmp_seq=24 ttl=59 time=15.0 ms
+64 bytes from 185.31.19.67: icmp_seq=25 ttl=59 time=14.5 ms
+64 bytes from 185.31.19.67: icmp_seq=26 ttl=59 time=14.5 ms
+64 bytes from 185.31.19.67: icmp_seq=27 ttl=59 time=14.6 ms
+64 bytes from 185.31.19.67: icmp_seq=28 ttl=59 time=14.5 ms
+64 bytes from 185.31.19.67: icmp_seq=29 ttl=59 time=14.8 ms
+64 bytes from 185.31.19.67: icmp_seq=30 ttl=59 time=15.0 ms
+
+--- 185.31.19.67 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5843ms
+rtt min/avg/max/mdev = 14.536/15.110/16.006/0.354 ms
+############### END PING
+############### START TR
+traceroute to 185.31.19.67 (185.31.19.67), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.711 ms  1.655 ms  1.613 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.amazon.in/
+TIME_OF_TEST 1446821564
+DESTIP 54.239.34.40
+DESTIPHOT 54.239.34.40
+
+time_namelookup:  0.511
+time_total:  1.288
+size_download: 537319
+url_effective: https://www.amazon.in/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.517
+time_appconnect: 0.526
+time_pretransfer: 0.526
+time_starttransfer: 0.560
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.014
+time_total:  0.918
+size_download: 523911
+url_effective: https://www.amazon.in/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.016
+time_appconnect: 0.026
+time_pretransfer: 0.026
+time_starttransfer: 0.062
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 54.239.34.40 (54.239.34.40) 56(84) bytes of data.
+
+--- 54.239.34.40 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 5982ms
+
+############### END PING
+############### START TR
+traceroute to 54.239.34.40 (54.239.34.40), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.332 ms  1.264 ms  1.224 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.bt.dk/
+TIME_OF_TEST 1446821601
+DESTIP 80.80.12.134
+DESTIPHOT 80.80.12.134
+
+time_namelookup:  5.520
+time_total:  6.028
+size_download: 217654
+url_effective: http://www.bt.dk/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 5.568
+time_appconnect: 0.000
+time_pretransfer: 5.568
+time_starttransfer: 5.616
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.434
+size_download: 217654
+url_effective: http://www.bt.dk/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.060
+time_appconnect: 0.000
+time_pretransfer: 0.060
+time_starttransfer: 0.109
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 80.80.12.134 (80.80.12.134) 56(84) bytes of data.
+
+--- 80.80.12.134 ping statistics ---
+30 packets transmitted, 0 received, 100% packet loss, time 6009ms
+
+############### END PING
+############### START TR
+traceroute to 80.80.12.134 (80.80.12.134), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.600 ms  1.499 ms  1.454 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.spiegel.de/
+TIME_OF_TEST 1446821639
+DESTIP 62.138.116.25
+DESTIPHOT 62.138.116.25
+
+time_namelookup:  0.031
+time_total:  0.352
+size_download: 239741
+url_effective: http://www.spiegel.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.068
+time_appconnect: 0.000
+time_pretransfer: 0.068
+time_starttransfer: 0.105
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.360
+size_download: 239741
+url_effective: http://www.spiegel.de/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.052
+time_appconnect: 0.000
+time_pretransfer: 0.052
+time_starttransfer: 0.091
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 62.138.116.25 (62.138.116.25) 56(84) bytes of data.
+64 bytes from 62.138.116.25: icmp_seq=1 ttl=242 time=39.2 ms
+64 bytes from 62.138.116.25: icmp_seq=2 ttl=242 time=37.9 ms
+64 bytes from 62.138.116.25: icmp_seq=3 ttl=242 time=39.4 ms
+64 bytes from 62.138.116.25: icmp_seq=4 ttl=242 time=39.3 ms
+64 bytes from 62.138.116.25: icmp_seq=5 ttl=242 time=38.1 ms
+64 bytes from 62.138.116.25: icmp_seq=6 ttl=242 time=37.9 ms
+64 bytes from 62.138.116.25: icmp_seq=7 ttl=242 time=39.7 ms
+64 bytes from 62.138.116.25: icmp_seq=8 ttl=242 time=37.5 ms
+64 bytes from 62.138.116.25: icmp_seq=9 ttl=242 time=38.0 ms
+64 bytes from 62.138.116.25: icmp_seq=10 ttl=242 time=39.2 ms
+64 bytes from 62.138.116.25: icmp_seq=11 ttl=242 time=37.8 ms
+64 bytes from 62.138.116.25: icmp_seq=12 ttl=242 time=37.6 ms
+64 bytes from 62.138.116.25: icmp_seq=13 ttl=242 time=40.0 ms
+64 bytes from 62.138.116.25: icmp_seq=14 ttl=242 time=37.6 ms
+64 bytes from 62.138.116.25: icmp_seq=15 ttl=242 time=37.5 ms
+64 bytes from 62.138.116.25: icmp_seq=16 ttl=242 time=39.0 ms
+64 bytes from 62.138.116.25: icmp_seq=17 ttl=242 time=37.5 ms
+64 bytes from 62.138.116.25: icmp_seq=18 ttl=242 time=39.3 ms
+64 bytes from 62.138.116.25: icmp_seq=19 ttl=242 time=37.4 ms
+64 bytes from 62.138.116.25: icmp_seq=20 ttl=242 time=38.9 ms
+64 bytes from 62.138.116.25: icmp_seq=21 ttl=242 time=37.5 ms
+64 bytes from 62.138.116.25: icmp_seq=22 ttl=242 time=39.5 ms
+64 bytes from 62.138.116.25: icmp_seq=23 ttl=242 time=37.8 ms
+64 bytes from 62.138.116.25: icmp_seq=24 ttl=242 time=39.2 ms
+64 bytes from 62.138.116.25: icmp_seq=25 ttl=242 time=37.4 ms
+64 bytes from 62.138.116.25: icmp_seq=26 ttl=242 time=37.5 ms
+64 bytes from 62.138.116.25: icmp_seq=27 ttl=242 time=37.6 ms
+64 bytes from 62.138.116.25: icmp_seq=28 ttl=242 time=37.7 ms
+64 bytes from 62.138.116.25: icmp_seq=29 ttl=242 time=37.8 ms
+64 bytes from 62.138.116.25: icmp_seq=30 ttl=242 time=39.3 ms
+
+--- 62.138.116.25 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5821ms
+rtt min/avg/max/mdev = 37.404/38.382/40.096/0.886 ms
+############### END PING
+############### START TR
+traceroute to 62.138.116.25 (62.138.116.25), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.061 ms  2.021 ms  2.000 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.hurriyet.com.tr/anasayfa/
+TIME_OF_TEST 1446821662
+DESTIP 83.66.162.3
+DESTIPHOT 83.66.162.3
+
+time_namelookup:  0.126
+time_total:  0.436
+size_download: 0
+url_effective: https://www.hurriyet.com.tr/anasayfa/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.202
+time_appconnect: 0.359
+time_pretransfer: 0.359
+time_starttransfer: 0.436
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.317
+size_download: 0
+url_effective: https://www.hurriyet.com.tr/anasayfa/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.088
+time_appconnect: 0.242
+time_pretransfer: 0.243
+time_starttransfer: 0.317
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 83.66.162.3 (83.66.162.3) 56(84) bytes of data.
+64 bytes from 83.66.162.3: icmp_seq=1 ttl=241 time=75.3 ms
+64 bytes from 83.66.162.3: icmp_seq=2 ttl=241 time=74.6 ms
+64 bytes from 83.66.162.3: icmp_seq=3 ttl=241 time=74.7 ms
+64 bytes from 83.66.162.3: icmp_seq=4 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=5 ttl=241 time=74.7 ms
+64 bytes from 83.66.162.3: icmp_seq=6 ttl=241 time=75.1 ms
+64 bytes from 83.66.162.3: icmp_seq=7 ttl=241 time=75.4 ms
+64 bytes from 83.66.162.3: icmp_seq=8 ttl=241 time=74.6 ms
+64 bytes from 83.66.162.3: icmp_seq=9 ttl=241 time=74.7 ms
+64 bytes from 83.66.162.3: icmp_seq=10 ttl=241 time=74.6 ms
+64 bytes from 83.66.162.3: icmp_seq=11 ttl=241 time=74.9 ms
+64 bytes from 83.66.162.3: icmp_seq=12 ttl=241 time=75.6 ms
+64 bytes from 83.66.162.3: icmp_seq=13 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=14 ttl=241 time=74.7 ms
+64 bytes from 83.66.162.3: icmp_seq=15 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=16 ttl=241 time=75.0 ms
+64 bytes from 83.66.162.3: icmp_seq=17 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=18 ttl=241 time=74.9 ms
+64 bytes from 83.66.162.3: icmp_seq=19 ttl=241 time=74.4 ms
+64 bytes from 83.66.162.3: icmp_seq=20 ttl=241 time=74.6 ms
+64 bytes from 83.66.162.3: icmp_seq=21 ttl=241 time=75.0 ms
+64 bytes from 83.66.162.3: icmp_seq=22 ttl=241 time=75.1 ms
+64 bytes from 83.66.162.3: icmp_seq=23 ttl=241 time=75.0 ms
+64 bytes from 83.66.162.3: icmp_seq=24 ttl=241 time=74.4 ms
+64 bytes from 83.66.162.3: icmp_seq=25 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=26 ttl=241 time=74.8 ms
+64 bytes from 83.66.162.3: icmp_seq=27 ttl=241 time=74.5 ms
+64 bytes from 83.66.162.3: icmp_seq=28 ttl=241 time=74.7 ms
+64 bytes from 83.66.162.3: icmp_seq=29 ttl=241 time=74.4 ms
+64 bytes from 83.66.162.3: icmp_seq=30 ttl=241 time=74.4 ms
+
+--- 83.66.162.3 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5836ms
+rtt min/avg/max/mdev = 74.406/74.796/75.687/0.420 ms
+############### END PING
+############### START TR
+traceroute to 83.66.162.3 (83.66.162.3), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.898 ms  1.838 ms  1.798 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.qq.com/
+TIME_OF_TEST 1446821694
+DESTIP 193.1.253.137
+DESTIPHOT 193.1.253.136
+
+time_namelookup:  0.013
+time_total:  1.327
+size_download: 617758
+url_effective: http://www.qq.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.017
+time_appconnect: 0.000
+time_pretransfer: 0.017
+time_starttransfer: 0.682
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  3.321
+size_download: 617758
+url_effective: http://www.qq.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.015
+time_appconnect: 0.000
+time_pretransfer: 0.015
+time_starttransfer: 2.886
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.1.253.137 (193.1.253.137) 56(84) bytes of data.
+64 bytes from 193.1.253.137: icmp_seq=1 ttl=58 time=2.74 ms
+64 bytes from 193.1.253.137: icmp_seq=2 ttl=58 time=3.07 ms
+64 bytes from 193.1.253.137: icmp_seq=3 ttl=58 time=2.89 ms
+64 bytes from 193.1.253.137: icmp_seq=4 ttl=58 time=2.79 ms
+64 bytes from 193.1.253.137: icmp_seq=5 ttl=58 time=3.22 ms
+64 bytes from 193.1.253.137: icmp_seq=6 ttl=58 time=2.74 ms
+64 bytes from 193.1.253.137: icmp_seq=7 ttl=58 time=2.95 ms
+64 bytes from 193.1.253.137: icmp_seq=8 ttl=58 time=3.27 ms
+64 bytes from 193.1.253.137: icmp_seq=9 ttl=58 time=2.90 ms
+64 bytes from 193.1.253.137: icmp_seq=10 ttl=58 time=3.66 ms
+64 bytes from 193.1.253.137: icmp_seq=11 ttl=58 time=3.64 ms
+64 bytes from 193.1.253.137: icmp_seq=12 ttl=58 time=3.37 ms
+64 bytes from 193.1.253.137: icmp_seq=13 ttl=58 time=2.77 ms
+64 bytes from 193.1.253.137: icmp_seq=14 ttl=58 time=2.85 ms
+64 bytes from 193.1.253.137: icmp_seq=15 ttl=58 time=2.82 ms
+64 bytes from 193.1.253.137: icmp_seq=16 ttl=58 time=2.60 ms
+64 bytes from 193.1.253.137: icmp_seq=17 ttl=58 time=2.58 ms
+64 bytes from 193.1.253.137: icmp_seq=18 ttl=58 time=3.26 ms
+64 bytes from 193.1.253.137: icmp_seq=19 ttl=58 time=3.77 ms
+64 bytes from 193.1.253.137: icmp_seq=20 ttl=58 time=4.25 ms
+64 bytes from 193.1.253.137: icmp_seq=21 ttl=58 time=2.83 ms
+64 bytes from 193.1.253.137: icmp_seq=22 ttl=58 time=2.73 ms
+64 bytes from 193.1.253.137: icmp_seq=23 ttl=58 time=3.45 ms
+64 bytes from 193.1.253.137: icmp_seq=24 ttl=58 time=2.96 ms
+64 bytes from 193.1.253.137: icmp_seq=25 ttl=58 time=2.83 ms
+64 bytes from 193.1.253.137: icmp_seq=26 ttl=58 time=3.10 ms
+64 bytes from 193.1.253.137: icmp_seq=27 ttl=58 time=2.79 ms
+64 bytes from 193.1.253.137: icmp_seq=28 ttl=58 time=2.66 ms
+64 bytes from 193.1.253.137: icmp_seq=29 ttl=58 time=2.95 ms
+64 bytes from 193.1.253.137: icmp_seq=30 ttl=58 time=2.90 ms
+
+--- 193.1.253.137 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5846ms
+rtt min/avg/max/mdev = 2.581/3.048/4.253/0.391 ms
+############### END PING
+############### START TR
+traceroute to 193.1.253.137 (193.1.253.137), 30 hops max, 60 byte packets
+ 1  10.0.2.2  1.993 ms  1.897 ms  1.847 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://vk.com/
+TIME_OF_TEST 1446821723
+DESTIP 87.240.131.117
+DESTIPHOT 87.240.131.118
+
+time_namelookup:  0.012
+time_total:  0.368
+size_download: 17491
+url_effective: https://vk.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.079
+time_appconnect: 0.219
+time_pretransfer: 0.220
+time_starttransfer: 0.306
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.012
+time_total:  1.078
+size_download: 17491
+url_effective: https://vk.com/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.221
+time_appconnect: 0.659
+time_pretransfer: 0.659
+time_starttransfer: 0.880
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 87.240.131.117 (87.240.131.117) 56(84) bytes of data.
+64 bytes from 87.240.131.117: icmp_seq=1 ttl=56 time=120 ms
+64 bytes from 87.240.131.117: icmp_seq=2 ttl=56 time=119 ms
+64 bytes from 87.240.131.117: icmp_seq=3 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=4 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=5 ttl=56 time=121 ms
+64 bytes from 87.240.131.117: icmp_seq=6 ttl=56 time=121 ms
+64 bytes from 87.240.131.117: icmp_seq=7 ttl=56 time=120 ms
+64 bytes from 87.240.131.117: icmp_seq=8 ttl=56 time=119 ms
+64 bytes from 87.240.131.117: icmp_seq=9 ttl=56 time=121 ms
+64 bytes from 87.240.131.117: icmp_seq=10 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=11 ttl=56 time=127 ms
+64 bytes from 87.240.131.117: icmp_seq=12 ttl=56 time=126 ms
+64 bytes from 87.240.131.117: icmp_seq=13 ttl=56 time=123 ms
+64 bytes from 87.240.131.117: icmp_seq=14 ttl=56 time=120 ms
+64 bytes from 87.240.131.117: icmp_seq=15 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=16 ttl=56 time=120 ms
+64 bytes from 87.240.131.117: icmp_seq=17 ttl=56 time=119 ms
+64 bytes from 87.240.131.117: icmp_seq=18 ttl=56 time=121 ms
+64 bytes from 87.240.131.117: icmp_seq=19 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=20 ttl=56 time=120 ms
+64 bytes from 87.240.131.117: icmp_seq=21 ttl=56 time=124 ms
+64 bytes from 87.240.131.117: icmp_seq=22 ttl=56 time=123 ms
+64 bytes from 87.240.131.117: icmp_seq=23 ttl=56 time=125 ms
+64 bytes from 87.240.131.117: icmp_seq=24 ttl=56 time=122 ms
+64 bytes from 87.240.131.117: icmp_seq=25 ttl=56 time=121 ms
+64 bytes from 87.240.131.117: icmp_seq=26 ttl=56 time=125 ms
+64 bytes from 87.240.131.117: icmp_seq=27 ttl=56 time=127 ms
+64 bytes from 87.240.131.117: icmp_seq=28 ttl=56 time=129 ms
+64 bytes from 87.240.131.117: icmp_seq=29 ttl=56 time=132 ms
+64 bytes from 87.240.131.117: icmp_seq=30 ttl=56 time=133 ms
+
+--- 87.240.131.117 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5844ms
+rtt min/avg/max/mdev = 119.254/123.532/133.298/3.596 ms
+############### END PING
+############### START TR
+traceroute to 87.240.131.117 (87.240.131.117), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.350 ms  0.280 ms  2.806 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.avito.ru/
+TIME_OF_TEST 1446821745
+DESTIP 185.89.12.51
+DESTIPHOT 185.89.12.51
+
+time_namelookup:  0.061
+time_total:  4.175
+size_download: 54927
+url_effective: https://www.avito.ru/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.113
+time_appconnect: 0.220
+time_pretransfer: 0.220
+time_starttransfer: 4.121
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.492
+size_download: 54927
+url_effective: https://www.avito.ru/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.065
+time_appconnect: 0.174
+time_pretransfer: 0.174
+time_starttransfer: 0.388
+
+############### START TCP-DATA
+240960001 0 51.7
+1 2841 104.1
+2841 4566 105.8
+4566 4617 158.7
+############### END TCP-DATA
+############### START PING
+PING 185.89.12.51 (185.89.12.51) 56(84) bytes of data.
+64 bytes from 185.89.12.51: icmp_seq=1 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=2 ttl=246 time=51.8 ms
+64 bytes from 185.89.12.51: icmp_seq=3 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=4 ttl=246 time=52.1 ms
+64 bytes from 185.89.12.51: icmp_seq=5 ttl=246 time=51.5 ms
+64 bytes from 185.89.12.51: icmp_seq=6 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=7 ttl=246 time=51.8 ms
+64 bytes from 185.89.12.51: icmp_seq=8 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=9 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=10 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=11 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=12 ttl=246 time=51.8 ms
+64 bytes from 185.89.12.51: icmp_seq=13 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=14 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=15 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=16 ttl=246 time=52.3 ms
+64 bytes from 185.89.12.51: icmp_seq=17 ttl=246 time=51.6 ms
+64 bytes from 185.89.12.51: icmp_seq=18 ttl=246 time=51.5 ms
+64 bytes from 185.89.12.51: icmp_seq=19 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=20 ttl=246 time=51.7 ms
+64 bytes from 185.89.12.51: icmp_seq=21 ttl=246 time=51.5 ms
+64 bytes from 185.89.12.51: icmp_seq=22 ttl=246 time=52.0 ms
+64 bytes from 185.89.12.51: icmp_seq=23 ttl=246 time=52.2 ms
+64 bytes from 185.89.12.51: icmp_seq=24 ttl=246 time=52.1 ms
+64 bytes from 185.89.12.51: icmp_seq=25 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=26 ttl=246 time=52.0 ms
+64 bytes from 185.89.12.51: icmp_seq=27 ttl=246 time=51.8 ms
+64 bytes from 185.89.12.51: icmp_seq=28 ttl=246 time=52.0 ms
+64 bytes from 185.89.12.51: icmp_seq=29 ttl=246 time=51.9 ms
+64 bytes from 185.89.12.51: icmp_seq=30 ttl=246 time=52.0 ms
+
+--- 185.89.12.51 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5831ms
+rtt min/avg/max/mdev = 51.523/51.882/52.342/0.221 ms
+############### END PING
+############### START TR
+traceroute to 185.89.12.51 (185.89.12.51), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.156 ms  2.118 ms  2.081 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.sportal.bg/
+TIME_OF_TEST 1446821772
+DESTIP 85.14.4.130
+DESTIPHOT 85.14.4.130
+
+time_namelookup:  0.253
+time_total:  0.869
+size_download: 341841
+url_effective: http://www.sportal.bg/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.309
+time_appconnect: 0.000
+time_pretransfer: 0.309
+time_starttransfer: 0.405
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.005
+time_total:  0.575
+size_download: 341841
+url_effective: http://www.sportal.bg/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.060
+time_appconnect: 0.000
+time_pretransfer: 0.060
+time_starttransfer: 0.137
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 85.14.4.130 (85.14.4.130) 56(84) bytes of data.
+64 bytes from 85.14.4.130: icmp_seq=1 ttl=56 time=55.4 ms
+64 bytes from 85.14.4.130: icmp_seq=2 ttl=56 time=58.8 ms
+64 bytes from 85.14.4.130: icmp_seq=3 ttl=56 time=55.5 ms
+64 bytes from 85.14.4.130: icmp_seq=4 ttl=56 time=55.0 ms
+64 bytes from 85.14.4.130: icmp_seq=5 ttl=56 time=57.1 ms
+64 bytes from 85.14.4.130: icmp_seq=6 ttl=56 time=55.3 ms
+64 bytes from 85.14.4.130: icmp_seq=7 ttl=56 time=57.3 ms
+64 bytes from 85.14.4.130: icmp_seq=8 ttl=56 time=55.1 ms
+64 bytes from 85.14.4.130: icmp_seq=9 ttl=56 time=55.9 ms
+64 bytes from 85.14.4.130: icmp_seq=10 ttl=56 time=58.0 ms
+64 bytes from 85.14.4.130: icmp_seq=11 ttl=56 time=55.5 ms
+64 bytes from 85.14.4.130: icmp_seq=12 ttl=56 time=55.8 ms
+64 bytes from 85.14.4.130: icmp_seq=13 ttl=56 time=55.2 ms
+64 bytes from 85.14.4.130: icmp_seq=14 ttl=56 time=58.7 ms
+64 bytes from 85.14.4.130: icmp_seq=15 ttl=56 time=54.7 ms
+64 bytes from 85.14.4.130: icmp_seq=16 ttl=56 time=55.0 ms
+64 bytes from 85.14.4.130: icmp_seq=17 ttl=56 time=55.2 ms
+64 bytes from 85.14.4.130: icmp_seq=18 ttl=56 time=56.4 ms
+64 bytes from 85.14.4.130: icmp_seq=19 ttl=56 time=54.9 ms
+64 bytes from 85.14.4.130: icmp_seq=20 ttl=56 time=54.7 ms
+64 bytes from 85.14.4.130: icmp_seq=21 ttl=56 time=55.7 ms
+64 bytes from 85.14.4.130: icmp_seq=22 ttl=56 time=55.0 ms
+64 bytes from 85.14.4.130: icmp_seq=23 ttl=56 time=55.1 ms
+64 bytes from 85.14.4.130: icmp_seq=24 ttl=56 time=54.7 ms
+64 bytes from 85.14.4.130: icmp_seq=25 ttl=56 time=54.8 ms
+64 bytes from 85.14.4.130: icmp_seq=26 ttl=56 time=54.8 ms
+64 bytes from 85.14.4.130: icmp_seq=27 ttl=56 time=54.7 ms
+64 bytes from 85.14.4.130: icmp_seq=28 ttl=56 time=54.9 ms
+64 bytes from 85.14.4.130: icmp_seq=29 ttl=56 time=55.4 ms
+64 bytes from 85.14.4.130: icmp_seq=30 ttl=56 time=81.7 ms
+
+--- 85.14.4.130 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5848ms
+rtt min/avg/max/mdev = 54.719/56.590/81.774/4.815 ms
+############### END PING
+############### START TR
+traceroute to 85.14.4.130 (85.14.4.130), 30 hops max, 60 byte packets
+ 1  10.0.2.2  0.172 ms  0.110 ms  1.816 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://ruv.is/
+TIME_OF_TEST 1446821802
+DESTIP 37.152.65.12
+DESTIPHOT 37.152.65.12
+
+time_namelookup:  0.129
+time_total:  1.489
+size_download: 218871
+url_effective: http://ruv.is/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.187
+time_appconnect: 0.000
+time_pretransfer: 0.187
+time_starttransfer: 1.092
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.535
+size_download: 218871
+url_effective: http://ruv.is/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.071
+time_appconnect: 0.000
+time_pretransfer: 0.071
+time_starttransfer: 0.130
+
+############### START TCP-DATA
+257088001 0 57.2
+1 2841 962.5
+2841 7101 963.4
+7101 12781 965.2
+12781 14601 967.0
+14601 23121 1018.5
+23121 23361 1019.7
+23361 32121 1021.0
+32121 40881 1075.1
+40881 54021 1076.6
+54021 55481 1078.1
+55481 64241 1130.6
+64241 76473 1133.0
+76473 80301 1134.7
+80301 89061 1187.3
+89061 97821 1189.5
+97821 109501 1191.3
+109501 112421 1243.2
+112421 121181 1245.7
+############### END TCP-DATA
+############### START PING
+PING 37.152.65.12 (37.152.65.12) 56(84) bytes of data.
+64 bytes from 37.152.65.12: icmp_seq=1 ttl=52 time=57.4 ms
+64 bytes from 37.152.65.12: icmp_seq=2 ttl=52 time=57.4 ms
+64 bytes from 37.152.65.12: icmp_seq=3 ttl=52 time=57.3 ms
+64 bytes from 37.152.65.12: icmp_seq=4 ttl=52 time=59.1 ms
+64 bytes from 37.152.65.12: icmp_seq=5 ttl=52 time=59.3 ms
+64 bytes from 37.152.65.12: icmp_seq=6 ttl=52 time=58.4 ms
+64 bytes from 37.152.65.12: icmp_seq=7 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=8 ttl=52 time=57.8 ms
+64 bytes from 37.152.65.12: icmp_seq=9 ttl=52 time=57.7 ms
+64 bytes from 37.152.65.12: icmp_seq=10 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=11 ttl=52 time=58.1 ms
+64 bytes from 37.152.65.12: icmp_seq=12 ttl=52 time=57.3 ms
+64 bytes from 37.152.65.12: icmp_seq=13 ttl=52 time=58.0 ms
+64 bytes from 37.152.65.12: icmp_seq=14 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=15 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=16 ttl=52 time=57.8 ms
+64 bytes from 37.152.65.12: icmp_seq=17 ttl=52 time=57.7 ms
+64 bytes from 37.152.65.12: icmp_seq=18 ttl=52 time=57.3 ms
+64 bytes from 37.152.65.12: icmp_seq=19 ttl=52 time=57.8 ms
+64 bytes from 37.152.65.12: icmp_seq=20 ttl=52 time=57.6 ms
+64 bytes from 37.152.65.12: icmp_seq=21 ttl=52 time=57.1 ms
+64 bytes from 37.152.65.12: icmp_seq=22 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=23 ttl=52 time=57.6 ms
+64 bytes from 37.152.65.12: icmp_seq=24 ttl=52 time=57.7 ms
+64 bytes from 37.152.65.12: icmp_seq=25 ttl=52 time=57.6 ms
+64 bytes from 37.152.65.12: icmp_seq=26 ttl=52 time=57.5 ms
+64 bytes from 37.152.65.12: icmp_seq=27 ttl=52 time=58.1 ms
+64 bytes from 37.152.65.12: icmp_seq=28 ttl=52 time=57.3 ms
+64 bytes from 37.152.65.12: icmp_seq=29 ttl=52 time=57.2 ms
+64 bytes from 37.152.65.12: icmp_seq=30 ttl=52 time=57.7 ms
+
+--- 37.152.65.12 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5861ms
+rtt min/avg/max/mdev = 57.132/57.766/59.343/0.587 ms
+############### END PING
+############### START TR
+traceroute to 37.152.65.12 (37.152.65.12), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.211 ms  2.168 ms  2.133 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST https://www.dagbladet.no/
+TIME_OF_TEST 1446821819
+DESTIP 81.93.163.115
+DESTIPHOT 81.93.163.115
+
+time_namelookup:  0.062
+time_total:  0.752
+size_download: 381950
+url_effective: https://www.dagbladet.no/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.115
+time_appconnect: 0.230
+time_pretransfer: 0.230
+time_starttransfer: 0.285
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.013
+time_total:  0.701
+size_download: 381950
+url_effective: https://www.dagbladet.no/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.066
+time_appconnect: 0.180
+time_pretransfer: 0.180
+time_starttransfer: 0.233
+
+############### START TCP-DATA
+259840001 0 52.5
+1 2841 109.5
+2841 3982 110.8
+3982 3988 164.9
+3988 4033 167.4
+4033 7011 222.5
+7011 11385 225.1
+11385 15958 273.8
+15958 23403 276.2
+23403 30848 325.2
+30848 39666 327.2
+39666 45267 329.1
+45267 49647 376.6
+49647 58494 378.9
+58494 76933 380.8
+76933 81429 428.0
+81429 90189 430.0
+90189 114329 432.0
+114329 118790 432.7
+118790 122046 433.8
+122046 128227 479.6
+128227 140557 482.4
+140557 171797 484.4
+171797 177824 485.1
+177824 180773 486.3
+180773 188073 530.8
+188073 201325 532.9
+201325 209874 534.8
+209874 242044 536.8
+242044 244964 538.6
+244964 249373 582.2
+249373 258220 584.3
+258220 274114 586.1
+274114 282874 587.8
+282874 306284 589.5
+306284 308700 591.2
+308700 311649 633.7
+311649 320409 636.4
+320409 347114 638.4
+347114 355874 640.3
+355874 370524 642.2
+370524 370982 644.1
+370982 375362 685.1
+############### END TCP-DATA
+############### START PING
+PING 81.93.163.115 (81.93.163.115) 56(84) bytes of data.
+64 bytes from 81.93.163.115: icmp_seq=1 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=2 ttl=244 time=53.2 ms
+64 bytes from 81.93.163.115: icmp_seq=3 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=4 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=5 ttl=244 time=53.1 ms
+64 bytes from 81.93.163.115: icmp_seq=6 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=7 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=8 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=9 ttl=244 time=53.2 ms
+64 bytes from 81.93.163.115: icmp_seq=10 ttl=244 time=53.3 ms
+64 bytes from 81.93.163.115: icmp_seq=11 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=12 ttl=244 time=53.3 ms
+64 bytes from 81.93.163.115: icmp_seq=13 ttl=244 time=53.3 ms
+64 bytes from 81.93.163.115: icmp_seq=14 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=15 ttl=244 time=53.6 ms
+64 bytes from 81.93.163.115: icmp_seq=16 ttl=244 time=53.1 ms
+64 bytes from 81.93.163.115: icmp_seq=17 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=18 ttl=244 time=53.3 ms
+64 bytes from 81.93.163.115: icmp_seq=19 ttl=244 time=53.8 ms
+64 bytes from 81.93.163.115: icmp_seq=20 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=21 ttl=244 time=53.1 ms
+64 bytes from 81.93.163.115: icmp_seq=22 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=23 ttl=244 time=52.9 ms
+64 bytes from 81.93.163.115: icmp_seq=24 ttl=244 time=55.4 ms
+64 bytes from 81.93.163.115: icmp_seq=25 ttl=244 time=53.2 ms
+64 bytes from 81.93.163.115: icmp_seq=26 ttl=244 time=53.2 ms
+64 bytes from 81.93.163.115: icmp_seq=27 ttl=244 time=53.0 ms
+64 bytes from 81.93.163.115: icmp_seq=28 ttl=244 time=53.4 ms
+64 bytes from 81.93.163.115: icmp_seq=29 ttl=244 time=53.1 ms
+64 bytes from 81.93.163.115: icmp_seq=30 ttl=244 time=53.4 ms
+
+--- 81.93.163.115 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5840ms
+rtt min/avg/max/mdev = 52.993/53.372/55.402/0.481 ms
+############### END PING
+############### START TR
+traceroute to 81.93.163.115 (81.93.163.115), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.518 ms  2.425 ms  2.355 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+########################### NEW LOG BEGINS #############################################
+DEST http://www.leboncoin.fr/
+TIME_OF_TEST 1446821835
+DESTIP 193.164.196.82
+DESTIPHOT 193.164.197.82
+
+time_namelookup:  0.126
+time_total:  0.252
+size_download: 35404
+url_effective: http://www.leboncoin.fr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.166
+time_appconnect: 0.000
+time_pretransfer: 0.166
+time_starttransfer: 0.208
+
+CURLHOT FOLLOWS
+
+time_namelookup:  0.014
+time_total:  0.158
+size_download: 35404
+url_effective: http://www.leboncoin.fr/
+time_redirect: 0.000
+num_redirects: 0
+time_connect: 0.061
+time_appconnect: 0.000
+time_pretransfer: 0.061
+time_starttransfer: 0.110
+
+############### START TCP-DATA
+############### END TCP-DATA
+############### START PING
+PING 193.164.196.82 (193.164.196.82) 56(84) bytes of data.
+64 bytes from 193.164.196.82: icmp_seq=1 ttl=51 time=40.8 ms
+64 bytes from 193.164.196.82: icmp_seq=2 ttl=51 time=40.8 ms
+64 bytes from 193.164.196.82: icmp_seq=3 ttl=51 time=41.4 ms
+64 bytes from 193.164.196.82: icmp_seq=4 ttl=51 time=41.0 ms
+64 bytes from 193.164.196.82: icmp_seq=5 ttl=51 time=41.0 ms
+64 bytes from 193.164.196.82: icmp_seq=6 ttl=51 time=41.3 ms
+64 bytes from 193.164.196.82: icmp_seq=7 ttl=51 time=40.9 ms
+64 bytes from 193.164.196.82: icmp_seq=8 ttl=51 time=41.4 ms
+64 bytes from 193.164.196.82: icmp_seq=9 ttl=51 time=41.0 ms
+64 bytes from 193.164.196.82: icmp_seq=10 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=11 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=12 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=13 ttl=51 time=41.4 ms
+64 bytes from 193.164.196.82: icmp_seq=14 ttl=51 time=41.2 ms
+64 bytes from 193.164.196.82: icmp_seq=15 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=16 ttl=51 time=41.4 ms
+64 bytes from 193.164.196.82: icmp_seq=17 ttl=51 time=41.3 ms
+64 bytes from 193.164.196.82: icmp_seq=18 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=19 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=20 ttl=51 time=41.0 ms
+64 bytes from 193.164.196.82: icmp_seq=21 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=22 ttl=51 time=41.2 ms
+64 bytes from 193.164.196.82: icmp_seq=23 ttl=51 time=41.0 ms
+64 bytes from 193.164.196.82: icmp_seq=24 ttl=51 time=40.9 ms
+64 bytes from 193.164.196.82: icmp_seq=25 ttl=51 time=41.1 ms
+64 bytes from 193.164.196.82: icmp_seq=26 ttl=51 time=41.2 ms
+64 bytes from 193.164.196.82: icmp_seq=27 ttl=51 time=41.6 ms
+64 bytes from 193.164.196.82: icmp_seq=28 ttl=51 time=41.5 ms
+64 bytes from 193.164.196.82: icmp_seq=29 ttl=51 time=40.7 ms
+64 bytes from 193.164.196.82: icmp_seq=30 ttl=51 time=41.4 ms
+
+--- 193.164.196.82 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 5844ms
+rtt min/avg/max/mdev = 40.731/41.187/41.651/0.228 ms
+############### END PING
+############### START TR
+traceroute to 193.164.196.82 (193.164.196.82), 30 hops max, 60 byte packets
+ 1  10.0.2.2  2.826 ms  2.722 ms  2.641 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+############### END TR
+########################### LOG ENDS #############################################
+################### START SPEED TEST
+Download: 198.68 Mbit/s
+Upload: 491.90 Mbit/s
+################### END SPEED TEST
